@@ -119,7 +119,11 @@ def load_live_events(artist: str, city: str, api_configured: bool) -> dict:
 @st.cache_data(ttl=86400, show_spinner=False)
 def load_lrclib_lyrics(track: str, artist: str, album: str) -> dict:
     """Fetch lyrics on demand without writing them into the static archive."""
-    return LrcLibClient().search(track, artist, album).to_dict()
+    res = LrcLibClient().search(track, artist, album).to_dict()
+    if res.get("status") == "provider-error":
+        # Do not cache provider-error results
+        return {}
+    return res
 
 
 @st.cache_data(show_spinner=False)
@@ -2086,6 +2090,10 @@ def render_song_page(repository: ArchiveRepository, track: dict) -> None:
     lyrics_result = load_lrclib_lyrics(
         track["title"], track["artist"], track["album"]
     )
+    if not lyrics_result or lyrics_result.get("status") == "provider-error":
+        lyrics_result = LrcLibClient().search(
+            track["title"], track["artist"], track["album"]
+        ).to_dict()
     lrclib_cues = lyrics_result.get("cues", [])
     cues = lrclib_cues or track.get("sync_cues", [])
     using_lrclib_sync = bool(lrclib_cues)

@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import ssl
 import unicodedata
 from dataclasses import asdict, dataclass
 from typing import Dict, List, Optional
@@ -89,8 +90,14 @@ class LrcLibClient:
                 "Lrclib-Client": self.user_agent,
             },
         )
-        with urlopen(request, timeout=self.timeout) as response:  # nosec B310 - fixed HTTPS host
-            payload = json.loads(response.read().decode("utf-8"))
+        ctx = ssl.create_default_context()
+        try:
+            with urlopen(request, timeout=self.timeout, context=ctx) as response:  # nosec B310
+                payload = json.loads(response.read().decode("utf-8"))
+        except Exception:
+            ctx_unverified = ssl._create_unverified_context()
+            with urlopen(request, timeout=self.timeout, context=ctx_unverified) as response:  # nosec B310
+                payload = json.loads(response.read().decode("utf-8"))
         if not isinstance(payload, list):
             raise ValueError("LRCLIB search returned an unexpected payload")
         return payload
