@@ -14,5 +14,7 @@ venv/
 # Pytest cache
 .pytest_cache/
 
-# Generated provider-response cache
-.catalog-cache/
+# Secrets and local config
+.env
+.streamlit/secrets.toml
+

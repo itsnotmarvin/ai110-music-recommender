@@ -2244,7 +2244,13 @@ def render_ask(repository: ArchiveRepository, universe: dict) -> None:
     if not submitted:
         return
 
-    engine = GroundedAnswerEngine(repository)
+    api_key = os.getenv("ANTHROPIC_API_KEY")
+    if not api_key:
+        try:
+            api_key = st.secrets.get("ANTHROPIC_API_KEY")
+        except Exception:
+            api_key = None
+    engine = GroundedAnswerEngine(repository, api_key=api_key)
     answer = engine.answer(
         question,
         universe_id=universe["id"],

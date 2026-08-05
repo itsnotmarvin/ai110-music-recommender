@@ -2,3 +2,5 @@ pandas>=2.0,<4
 pytest>=8,<10
 streamlit>=1.61,<1.62
 ytmusicapi>=1.11,<2
+anthropic>=0.18.0
+
