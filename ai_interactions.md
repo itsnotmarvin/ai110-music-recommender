@@ -10,19 +10,51 @@
 
 **What task did you give the agent?**
 
-<!-- Describe the goal you asked the agent to accomplish -->
+Extend the Module 3 music recommender into a first working draft of a general,
+connected music-story website. The requested product separates reviewed static
+stories from live concert information and treats Odd Future as an example rather
+than the platform's only subject.
 
 **Prompts used:**
 
-<!-- Paste the key prompts you gave the agent -->
+- "I think we have enough for a draft, so we could start implementing."
+- "We can try to use my personal Apple Music library to give me a recommendation, then the whole story thing."
+- "Let's build a system that recommends a song to a playlist... go online and find out if there's a better system overall."
+- "Are you able to show me a better version of this right now using your uploaded playlist?"
+- Earlier design constraints included optional guided stories, free exploration,
+  cross-artist universes, reviewed static chapters, source-backed questions,
+  side-by-side perspectives, and artist-stated psychological context only.
 
 **What did the agent generate or change?**
 
-<!-- List the files edited, code generated, or commands run -->
+- Added a Streamlit website in `app.py`.
+- Added a reviewed JSON archive, validation, transparent retrieval, grounded
+  answering, and a separate Ticketmaster provider boundary.
+- Added a session-only Apple Music XML importer, an inspectable personal taste
+  profile, three deterministic recommendation modes, and recommendation-to-story
+  navigation.
+- Researched automatic playlist continuation and added playlist parsing,
+  listening-based Last.fm candidates, community-tag mood/category matching,
+  multi-seed evidence, and diversity-aware hybrid ranking.
+- Added a one-click, explicitly synthetic live-demo playlist so a stakeholder can
+  inspect the real personalization and playlist-continuation flow without asking
+  a presenter to reveal personal listening history.
+- Added automated tests, structured evaluation cases, an evaluation script,
+  a Mermaid architecture diagram, README execution evidence, and this model card.
+- Ran compilation checks, 55 automated tests, an application health check, and a
+  Streamlit test harness smoke run.
 
 **What did you verify or fix manually?**
 
-<!-- Describe anything the agent got wrong or that required human review -->
+The human corrected the AI when it prematurely turned early brainstorming into a
+five-step workflow and when it treated Odd Future as the product scope. The final
+draft uses a two-step implementation/check process and a general data model. Real
+artist content still requires ongoing human source review before the archive can
+be described as comprehensive.
+
+The human also rejected a recommendation feature that felt detached from the
+product. That feedback changed the feature into a personal-library entrance: a
+real track recommendation now leads directly into the artist's story.
 
 ---
 
@@ -32,12 +64,16 @@
 
 **Which design pattern did you use?**
 
-<!-- e.g., Strategy, Factory, Observer, etc. -->
+Repository plus Adapter.
 
 **How did AI help you brainstorm or implement it?**
 
-<!-- Describe the conversation or suggestions that led to your decision -->
+The discussion established that reviewed history and changing concert data have
+different trust requirements. AI translated that distinction into separate code
+boundaries.
 
 **How does the pattern appear in your final code?**
 
-<!-- Point to the relevant class or method -->
+`ArchiveRepository` owns static validated archive access. `TicketmasterEventsClient`
+adapts a changing external provider into a small normalized event result without
+allowing live data to mutate the reviewed archive.

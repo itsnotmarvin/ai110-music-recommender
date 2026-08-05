@@ -1,0 +1,56 @@
+flowchart LR
+    U["Listener"] --> UI["Streamlit web interface"]
+    UI --> S["Free-form artist search"]
+    S --> MB["MusicBrainz universal catalog"]
+    MB --> CP["External catalog profile"]
+    CP --> U
+
+    UI --> AM["Apple Music XML metadata upload"]
+    AM --> PR["Session-only library profile"]
+    PR --> RS["Rediscover / Comfort / Deep Cut scorer"]
+    RS --> RR["Recommended track + inspectable reasons"]
+    RR --> B
+    PR --> SP["Selected playlist + diverse seeds"]
+    SP --> LF["Last.fm listening similarity + tags"]
+    LF --> HY["Hybrid fit scoring + diversity rerank"]
+    HY --> RR
+
+    subgraph REVIEWED["Reviewed static story layer"]
+        E["Human editor / reviewer"] --> A["Versioned archive.json"]
+        A --> V["Schema + claim-type validator"]
+        V --> R["Transparent archive retriever"]
+    end
+
+    UI --> B["Browse artist universes"]
+    B --> A
+    UI --> Q["Natural-language question"]
+    Q --> R
+    R --> G["Grounded answer composer"]
+    G --> C{"Enough evidence?"}
+    C -- "Yes" --> O["Answer + confidence + evidence + citations"]
+    C -- "No" --> X["Abstain with explanation"]
+    O --> U
+    X --> U
+
+    UI --> SC["Song page with reviewed context"]
+    SC --> SG["Song-context builder"]
+    SG --> A
+    SG --> SD["data/song_contexts.json"]
+
+    UI --> P["YouTube synchronized player"]
+    P --> Y["LRCLIB timed lyrics"]
+    P --> GL["External Genius lyrics link"]
+
+    UI --> L["Live concert request"]
+    L --> T["Ticketmaster provider adapter"]
+    T --> F["Freshness label + verification warning"]
+    F --> U
+
+    H["Automated tests + evaluation harness"] --> V
+    H --> R
+    H --> G
+    H --> T
+    H --> AM
+    H --> RS
+    H --> HY
+    H --> SG

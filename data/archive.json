@@ -1,0 +1,673 @@
+{
+  "archive_version": "0.1.0-draft",
+  "reviewed_at": "2026-08-04",
+  "editorial_policy": {
+    "summary": "Historical stories are static and reviewed. Private mental states are never inferred. Critical interpretations are optional and labeled.",
+    "coverage_note": "This draft contains one deliberately small connected cluster to demonstrate a platform designed for any artist universe. Coverage is not a complete biography or discography."
+  },
+  "sources": [
+    {
+      "id": "pitchfork-odd-future-2011",
+      "title": "Odd Future Talk SXSW, Goblin, Gnomes",
+      "publisher": "Pitchfork",
+      "published_at": "2011-03-22",
+      "source_type": "group-interview",
+      "url": "https://pitchfork.com/news/41940-odd-future-talk-sxsw-goblin-gnomes/"
+    },
+    {
+      "id": "pitchfork-odd-future-history-2018",
+      "title": "Found Family: How Odd Future Changed Everything",
+      "publisher": "Pitchfork",
+      "published_at": "2018-07-31",
+      "source_type": "reported-analysis",
+      "url": "https://pitchfork.com/thepitch/found-family-how-odd-future-changed-everything/"
+    },
+    {
+      "id": "pitchfork-flower-boy-review-2017",
+      "title": "Tyler, the Creator: Flower Boy Album Review",
+      "publisher": "Pitchfork",
+      "published_at": "2017-07-24",
+      "source_type": "criticism",
+      "url": "https://pitchfork.com/reviews/albums/tyler-the-creator-flower-boy/"
+    },
+    {
+      "id": "new-yorker-flower-blooms-2017",
+      "title": "Tyler, the Creator Grows on ‘Where This Flower Blooms’",
+      "publisher": "The New Yorker",
+      "published_at": "2017-07-27",
+      "source_type": "criticism",
+      "url": "https://www.newyorker.com/culture/listening-booth/tyler-the-creator-grows-on-where-this-flower-blooms"
+    },
+    {
+      "id": "time-internet-interview-2015",
+      "title": "How a Band Called The Internet Became One of the Best Things on the Internet",
+      "publisher": "TIME",
+      "published_at": "2015-07-06",
+      "source_type": "artist-interview",
+      "url": "https://time.com/3944479/the-internet-interview/"
+    },
+    {
+      "id": "apple-music-tyler-profile-2026",
+      "title": "Tyler, The Creator — Artist Profile and Discography",
+      "publisher": "Apple Music",
+      "published_at": "2026-08-04",
+      "source_type": "streaming-catalog-editorial",
+      "url": "https://music.apple.com/us/artist/tyler-the-creator/420368335"
+    },
+    {
+      "id": "grammy-tyler-2026",
+      "title": "Tyler, The Creator to Perform at the 2026 Grammy Awards",
+      "publisher": "Recording Academy",
+      "published_at": "2026-01-30",
+      "source_type": "award-institution",
+      "url": "https://www.grammy.com/news/tyler-the-creator-2026-grammys-performance/"
+    },
+    {
+      "id": "youtube-see-you-again-audio",
+      "title": "See You Again — Official Audio",
+      "publisher": "Tyler, The Creator Official Artist Channel / YouTube",
+      "published_at": "2017-07-20",
+      "source_type": "official-audio",
+      "url": "https://www.youtube.com/watch?v=EZE62LpaqHg"
+    },
+    {
+      "id": "genius-see-you-again",
+      "title": "See You Again — Lyrics and Annotations",
+      "publisher": "Genius",
+      "published_at": "2017-07-21",
+      "source_type": "licensed-lyrics-reference",
+      "url": "https://genius.com/Tyler-the-creator-see-you-again-lyrics"
+    },
+    {
+      "id": "musicbrainz-bastard-tracklist",
+      "title": "Bastard — Release and Tracklist",
+      "publisher": "MusicBrainz",
+      "published_at": "2026-08-04",
+      "source_type": "community-catalog-metadata",
+      "url": "https://musicbrainz.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f"
+    },
+    {
+      "id": "musicbrainz-odd-future-tape",
+      "title": "The Odd Future Tape — Release and Tracklist",
+      "publisher": "MusicBrainz",
+      "published_at": "2026-08-04",
+      "source_type": "community-catalog-metadata",
+      "url": "https://musicbrainz.org/release/e8a86910-271c-467c-b918-2a7bb6bd908d"
+    },
+    {
+      "id": "musicbrainz-radical",
+      "title": "Radical — Release and Tracklist",
+      "publisher": "MusicBrainz",
+      "published_at": "2026-08-04",
+      "source_type": "community-catalog-metadata",
+      "url": "https://musicbrainz.org/release/56b361ed-2bcc-4d30-93b5-f281844718eb"
+    },
+    {
+      "id": "musicbrainz-12-odd-future-songs",
+      "title": "12 Odd Future Songs — Release and Tracklist",
+      "publisher": "MusicBrainz",
+      "published_at": "2026-08-04",
+      "source_type": "community-catalog-metadata",
+      "url": "https://musicbrainz.org/release/da5820ab-f41c-422e-bd77-cd9a0450f2f1"
+    },
+    {
+      "id": "musicbrainz-of-tape-vol-2",
+      "title": "The OF Tape Vol. 2 — Release and Tracklist",
+      "publisher": "MusicBrainz",
+      "published_at": "2026-08-04",
+      "source_type": "community-catalog-metadata",
+      "url": "https://musicbrainz.org/release/9b6bd2ac-c9ad-42d4-9506-0c95cbea785b"
+    }
+  ],
+  "universes": [
+    {
+      "id": "tyler-the-creator",
+      "name": "Tyler, the Creator",
+      "kind": "Artist universe",
+      "initials": "TC",
+      "accent": "#f1c75b",
+      "accent_secondary": "#87a878",
+      "tagline": "Albums as chapters in a changing creative language.",
+      "summary": "A reviewed demo path through Tyler's early collective context and the creative contrast critics identified between Cherry Bomb and Flower Boy.",
+      "coverage": "Reviewed discography draft: 2009–2025",
+      "genres": ["Hip-hop", "Alternative rap", "R&B"],
+      "collectives": ["Odd Future"],
+      "popular_tracks": [
+        {"title": "Where This Flower Blooms", "album": "Flower Boy", "year": 2017, "themes": ["growth", "self-definition"]},
+        {"title": "Boredom", "album": "Flower Boy", "year": 2017, "themes": ["isolation", "connection"]},
+        {"title": "911 / Mr. Lonely", "album": "Flower Boy", "year": 2017, "themes": ["loneliness", "success"]}
+      ],
+      "albums": [
+        {
+          "id": "bastard",
+          "title": "Bastard",
+          "year": 2009,
+          "type": "Mixtape",
+          "accent": "#8d1d24",
+          "summary": "The opening chapter establishes Tyler's early fictional therapy framing, home-produced sound, and confrontational writing.",
+          "before": "Created before Odd Future reached a large audience, this self-released project introduces ideas and characters that continue into the next releases. The archive treats the fictional narration separately from Tyler's real private psychology.",
+          "tracks": [
+            {"title": "Bastard", "theme": "fictional therapy frame / introduction"},
+            {"title": "Seven", "theme": "ambition / provocation"},
+            {"title": "Odd Toddlers", "theme": "collective identity / technique"}
+          ],
+          "connections": [
+            {"name": "Odd Future", "role": "collective surrounding the project", "universe_id": "odd-future"},
+            {"name": "Earl Sweatshirt", "role": "early collective peer"}
+          ],
+          "source_ids": ["musicbrainz-bastard-tracklist", "apple-music-tyler-profile-2026"]
+        },
+        {
+          "id": "goblin",
+          "title": "Goblin",
+          "year": 2011,
+          "type": "Album",
+          "accent": "#232323",
+          "summary": "A larger-stage continuation of the early fictional world, arriving as Odd Future's visibility rapidly expanded.",
+          "before": "Odd Future's 2011 interviews capture a group suddenly encountering television performances, established artists, and intense attention while Tyler prepared Goblin.",
+          "tracks": [
+            {"title": "Goblin", "theme": "character frame / scrutiny"},
+            {"title": "Yonkers", "theme": "provocation / breakthrough"},
+            {"title": "She", "theme": "fictional obsession / collaboration"}
+          ],
+          "connections": [
+            {"name": "Odd Future", "role": "collective context", "universe_id": "odd-future"},
+            {"name": "Frank Ocean", "role": "featured on She", "universe_id": "frank-ocean"}
+          ],
+          "source_ids": ["pitchfork-odd-future-2011", "apple-music-tyler-profile-2026"]
+        },
+        {
+          "id": "wolf",
+          "title": "Wolf",
+          "year": 2013,
+          "type": "Album",
+          "accent": "#5f8db2",
+          "summary": "A more melodic and arranged chapter that keeps the fictional camp setting while allowing more autobiography and reflection into the writing.",
+          "before": "By 2013, Odd Future was no longer only an online discovery. Its members were developing distinct solo careers, and Tyler's production palette was becoming a larger part of the story.",
+          "tracks": [
+            {"title": "Jamba", "theme": "arrival / performance"},
+            {"title": "Answer", "theme": "family / unanswered connection"},
+            {"title": "IFHY", "theme": "contradiction / attachment"}
+          ],
+          "connections": [
+            {"name": "Frank Ocean", "role": "featured collaborator", "universe_id": "frank-ocean"},
+            {"name": "Earl Sweatshirt", "role": "featured collaborator"},
+            {"name": "Pharrell Williams", "role": "featured collaborator and influence"}
+          ],
+          "source_ids": ["apple-music-tyler-profile-2026", "pitchfork-odd-future-history-2018"]
+        },
+        {
+          "id": "cherry-bomb",
+          "title": "Cherry Bomb",
+          "year": 2015,
+          "type": "Album",
+          "accent": "#e76842",
+          "summary": "A dense, abrasive and highly arranged chapter that critics later used as a contrast point for Flower Boy.",
+          "before": "The reviewed draft does not claim a single event caused this album or the one after it. It treats the documented music and later criticism as separate evidence.",
+          "tracks": [
+            {"title": "DEATHCAMP", "theme": "entrance / force"},
+            {"title": "FIND YOUR WINGS", "theme": "possibility / mentorship"},
+            {"title": "SMUCKERS", "theme": "ambition / technique"}
+          ],
+          "connections": [
+            {"name": "Pharrell Williams", "role": "featured collaborator and influence"},
+            {"name": "Kanye West", "role": "featured on SMUCKERS"},
+            {"name": "Lil Wayne", "role": "featured on SMUCKERS"},
+            {"name": "Charlie Wilson", "role": "featured vocalist"}
+          ],
+          "source_ids": ["pitchfork-flower-boy-review-2017"]
+        },
+        {
+          "id": "flower-boy",
+          "title": "Flower Boy",
+          "year": 2017,
+          "type": "Album",
+          "accent": "#f0b941",
+          "summary": "A chapter widely described by critics as more reflective, concise, and open than Tyler's earlier work.",
+          "before": "Contemporary criticism placed the album after years of provocative public work and emphasized a turn toward reflection. This is a critical framing, not a diagnosis of Tyler's private state.",
+          "tracks": [
+            {"title": "Foreword", "theme": "direction / uncertainty"},
+            {"title": "Where This Flower Blooms", "theme": "growth / self-definition"},
+            {"title": "Boredom", "theme": "isolation / reaching out"},
+            {
+              "title": "See You Again",
+              "theme": "longing / imagined connection",
+              "youtube_id": "EZE62LpaqHg",
+              "youtube_url": "https://www.youtube.com/watch?v=EZE62LpaqHg",
+              "genius_url": "https://genius.com/Tyler-the-creator-see-you-again-lyrics",
+              "credits": {
+                "Primary artist": "Tyler, The Creator",
+                "Featured vocals": "Kali Uchis",
+                "Written by": "Tyler Okonma",
+                "Produced by": "Tyler, The Creator",
+                "Released": "July 21, 2017"
+              },
+              "sync_note": "Short permissioned demonstration excerpt supplied by Threadline.",
+              "sync_cues": [
+                {"time": 0, "end": 2.81, "section": "Intro", "text": "Okay, okay, okay, okay, okay, okay, o—"},
+                {"time": 2.81, "end": 5.84, "section": "Verse 1", "text": "You live in my dream state"},
+                {"time": 5.84, "end": 8.87, "section": "Verse 1", "text": "Relocate my fantasy"},
+                {"time": 8.87, "end": 12.04, "section": "Verse 1", "text": "I stay in reality"}
+              ]
+            },
+            {"title": "Garden Shed", "theme": "privacy / disclosure"},
+            {"title": "911 / Mr. Lonely", "theme": "success / loneliness"}
+          ],
+          "connections": [
+            {"name": "Frank Ocean", "role": "featured and supporting vocals", "universe_id": "frank-ocean"},
+            {"name": "Kali Uchis", "role": "featured on See You Again"},
+            {"name": "A$AP Rocky", "role": "featured on Who Dat Boy"},
+            {"name": "Lil Wayne", "role": "featured on Droppin' Seeds"}
+          ],
+          "source_ids": ["pitchfork-flower-boy-review-2017", "new-yorker-flower-blooms-2017"]
+        },
+        {
+          "id": "igor",
+          "title": "IGOR",
+          "year": 2019,
+          "type": "Album",
+          "accent": "#e7a5af",
+          "summary": "A tightly sequenced character-driven album that follows attraction, jealousy, loss, and attempted acceptance across a relationship triangle.",
+          "before": "After Flower Boy's critical reception, Tyler built an album around a distinct visual persona and a continuous emotional sequence rather than separating rap and production into different lanes.",
+          "tracks": [
+            {"title": "EARFQUAKE", "theme": "fear of loss / pleading"},
+            {"title": "A BOY IS A GUN*", "theme": "attraction / danger"},
+            {"title": "GONE, GONE / THANK YOU", "theme": "grief / gratitude"}
+          ],
+          "connections": [
+            {"name": "Playboi Carti", "role": "featured vocalist"},
+            {"name": "Solange", "role": "supporting vocalist"},
+            {"name": "Kanye West", "role": "featured vocalist"}
+          ],
+          "source_ids": ["apple-music-tyler-profile-2026"]
+        },
+        {
+          "id": "call-me-if-you-get-lost",
+          "title": "CALL ME IF YOU GET LOST",
+          "year": 2021,
+          "type": "Album",
+          "accent": "#c8a96b",
+          "summary": "A travel-stamped rap album hosted by DJ Drama, balancing public confidence and luxury with a private romantic conflict.",
+          "before": "Following IGOR's continuous relationship narrative, Tyler returned to a mixtape-host format while retaining the detailed world-building and sequencing of his album work.",
+          "tracks": [
+            {"title": "CORSO", "theme": "arrival / confidence"},
+            {"title": "WUSYANAME", "theme": "attraction / invitation"},
+            {"title": "WILSHIRE", "theme": "extended relationship account"}
+          ],
+          "connections": [
+            {"name": "DJ Drama", "role": "host and narrative voice"},
+            {"name": "Lil Wayne", "role": "featured collaborator"},
+            {"name": "YoungBoy Never Broke Again", "role": "featured on WUSYANAME"}
+          ],
+          "source_ids": ["apple-music-tyler-profile-2026"]
+        },
+        {
+          "id": "chromakopia",
+          "title": "CHROMAKOPIA",
+          "year": 2024,
+          "type": "Album",
+          "accent": "#4f6f55",
+          "summary": "A masked, highly personal chapter organized around adulthood, privacy, family lessons, public attention, and responsibility.",
+          "before": "Released three years after CALL ME IF YOU GET LOST, this chapter arrived with the St. Chroma visual identity and placed questions of visibility and adult responsibility at the center of the album world.",
+          "tracks": [
+            {"title": "St. Chroma", "theme": "persona / direction"},
+            {"title": "Noid", "theme": "visibility / privacy"},
+            {"title": "Like Him", "theme": "family / resemblance"}
+          ],
+          "connections": [
+            {"name": "Daniel Caesar", "role": "featured vocalist"},
+            {"name": "Doechii", "role": "featured collaborator"},
+            {"name": "GloRilla", "role": "featured collaborator"}
+          ],
+          "source_ids": ["apple-music-tyler-profile-2026", "grammy-tyler-2026"]
+        },
+        {
+          "id": "dont-tap-the-glass",
+          "title": "DON'T TAP THE GLASS",
+          "year": 2025,
+          "type": "Album",
+          "accent": "#1e4ea1",
+          "summary": "A short, movement-focused record that shifts from CHROMAKOPIA's guarded reflection toward physical energy and dance-floor immediacy.",
+          "before": "Released nine months after CHROMAKOPIA and during a world-tour period, the album was presented as a concise 10-song project built around movement rather than a dense explanatory concept.",
+          "tracks": [
+            {"title": "Big Poe", "theme": "entrance / movement"},
+            {"title": "Sugar on My Tongue", "theme": "desire / dance"},
+            {"title": "Don't Tap That Glass / Tweakin'", "theme": "release / performance"}
+          ],
+          "connections": [
+            {"name": "Pharrell Williams", "role": "featured as Sk8brd"},
+            {"name": "Yebba", "role": "featured vocalist"},
+            {"name": "Madison McFerrin", "role": "featured vocalist"}
+          ],
+          "source_ids": ["apple-music-tyler-profile-2026", "grammy-tyler-2026"]
+        }
+      ],
+      "chapters": [
+        {
+          "id": "collective-roots",
+          "era": "2008–2011",
+          "title": "A collective becomes a world",
+          "dek": "Odd Future's internet-native identity connected music, video, fashion, and a feeling of access.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "pitchfork-odd-future-2011"]
+        },
+        {
+          "id": "contrast-to-flower-boy",
+          "era": "2015–2017",
+          "title": "From density to reflection",
+          "dek": "Critics heard Flower Boy as a more focused and introspective chapter, while tracing parts of its musical vocabulary back through Cherry Bomb.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["pitchfork-flower-boy-review-2017", "new-yorker-flower-blooms-2017"]
+        }
+      ],
+      "related": [
+        {"universe_id": "odd-future", "relationship": "Co-founder and member"},
+        {"universe_id": "frank-ocean", "relationship": "Collective peer and collaborator"},
+        {"universe_id": "syd", "relationship": "Collective peer"},
+        {"universe_id": "the-internet", "relationship": "Connected through Syd and Matt Martians"}
+      ]
+    },
+    {
+      "id": "odd-future",
+      "name": "Odd Future",
+      "kind": "Collective universe",
+      "initials": "OF",
+      "accent": "#ef5b47",
+      "accent_secondary": "#1e1e1e",
+      "tagline": "A collective whose shared world opened into many solo universes.",
+      "summary": "A reviewed overview of an internet-native Los Angeles collective and the distinct creative paths connected to it.",
+      "coverage": "Core collective catalog: 2008–2012; reviewed story coverage: 2008–2018",
+      "genres": ["Hip-hop", "R&B", "DIY culture"],
+      "collectives": [],
+      "popular_tracks": [
+        {"title": "Orange Juice", "album": "Radical", "year": 2010, "themes": ["collective performance", "early mixtape era"]},
+        {"title": "Rella", "album": "The OF Tape Vol. 2", "year": 2012, "themes": ["collective performance", "group album"]},
+        {"title": "Oldie", "album": "The OF Tape Vol. 2", "year": 2012, "themes": ["ensemble showcase", "collective identity"]}
+      ],
+      "albums": [
+        {
+          "id": "odd-future-tape",
+          "title": "The Odd Future Tape",
+          "year": 2008,
+          "type": "Mixtape",
+          "accent": "#2b2b2b",
+          "summary": "The collective's first mixtape documents the original combinations of Tyler, Hodgy, Casey Veggies, Jasper, and other early participants.",
+          "before": "Released before Odd Future's wider internet-era breakthrough, the tape is cataloged here as an early group document. Track credits follow the MusicBrainz release record, while unavailable official videos remain search-only.",
+          "tracks": [],
+          "connections": [
+            {"name": "Tyler, the Creator", "role": "performer and producer", "universe_id": "tyler-the-creator"},
+            {"name": "Hodgy", "role": "performer"},
+            {"name": "Casey Veggies", "role": "performer"},
+            {"name": "Jasper Dolphin", "role": "performer"}
+          ],
+          "source_ids": ["musicbrainz-odd-future-tape", "pitchfork-odd-future-history-2018"]
+        },
+        {
+          "id": "radical",
+          "title": "Radical",
+          "year": 2010,
+          "type": "Mixtape",
+          "accent": "#c51f2c",
+          "summary": "A full-collective mixtape built from short solo turns, pairings, and posse tracks across the expanding Odd Future roster.",
+          "before": "Radical arrived during the period when the collective was distributing its own work online. The archive separates the documented track list from later claims about the group's cultural impact.",
+          "tracks": [],
+          "connections": [
+            {"name": "Tyler, the Creator", "role": "performer and producer", "universe_id": "tyler-the-creator"},
+            {"name": "Earl Sweatshirt", "role": "performer"},
+            {"name": "Domo Genesis", "role": "performer"},
+            {"name": "Mike G", "role": "performer"},
+            {"name": "Hodgy", "role": "performer"}
+          ],
+          "source_ids": ["musicbrainz-radical", "pitchfork-odd-future-history-2018"]
+        },
+        {
+          "id": "12-odd-future-songs",
+          "title": "12 Odd Future Songs",
+          "year": 2011,
+          "type": "Compilation",
+          "accent": "#555555",
+          "summary": "A label-era compilation that gathers tracks by Tyler, MellowHype, Mike G, Domo Genesis, The Jet Age of Tomorrow, and The Internet.",
+          "before": "This compilation is not a single newly recorded group statement; it is included because it offers a concise map of the connected artists and subgroups active around Odd Future in 2011.",
+          "tracks": [],
+          "connections": [
+            {"name": "Tyler, the Creator", "role": "featured catalog artist", "universe_id": "tyler-the-creator"},
+            {"name": "The Internet", "role": "featured group", "universe_id": "the-internet"},
+            {"name": "MellowHype", "role": "featured group"},
+            {"name": "The Jet Age of Tomorrow", "role": "featured group"},
+            {"name": "Domo Genesis", "role": "featured artist"},
+            {"name": "Mike G", "role": "featured artist"}
+          ],
+          "source_ids": ["musicbrainz-12-odd-future-songs", "pitchfork-odd-future-history-2018"]
+        },
+        {
+          "id": "of-tape-vol-2",
+          "title": "The OF Tape Vol. 2",
+          "year": 2012,
+          "type": "Album",
+          "accent": "#f2eee4",
+          "summary": "Odd Future's studio album moves between member spotlights and ensemble records, ending with the extended group showcase Oldie.",
+          "before": "By 2012, members and subgroups had distinct catalogs of their own. The album presents those voices side by side instead of treating Odd Future as one uniform performer.",
+          "tracks": [],
+          "connections": [
+            {"name": "Tyler, the Creator", "role": "performer and producer", "universe_id": "tyler-the-creator"},
+            {"name": "Frank Ocean", "role": "performer", "universe_id": "frank-ocean"},
+            {"name": "Syd", "role": "performer and engineer", "universe_id": "syd"},
+            {"name": "The Internet", "role": "featured group", "universe_id": "the-internet"},
+            {"name": "Earl Sweatshirt", "role": "performer"},
+            {"name": "Domo Genesis", "role": "performer"}
+          ],
+          "source_ids": ["musicbrainz-of-tape-vol-2", "pitchfork-odd-future-history-2018"]
+        }
+      ],
+      "chapters": [
+        {
+          "id": "internet-native-rise",
+          "era": "2008–2011",
+          "title": "Publishing the world around the music",
+          "dek": "The collective used Tumblr and YouTube to share not only releases but everyday videos, images, and a wider creative identity.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018"]
+        },
+        {
+          "id": "distinct-solo-paths",
+          "era": "2012–2018",
+          "title": "One collective, distinct perspectives",
+          "dek": "Tyler, Frank, Earl, Syd, and other members developed recognizable solo languages rather than one uniform group sound.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["pitchfork-odd-future-history-2018"]
+        }
+      ],
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Co-founder and member"},
+        {"universe_id": "frank-ocean", "relationship": "Member"},
+        {"universe_id": "syd", "relationship": "Member and recording engineer/DJ"},
+        {"universe_id": "the-internet", "relationship": "Connected group formed by Syd and Matt Martians"}
+      ]
+    },
+    {
+      "id": "frank-ocean",
+      "name": "Frank Ocean",
+      "kind": "Artist universe",
+      "initials": "FO",
+      "accent": "#f29b38",
+      "accent_secondary": "#5b76a6",
+      "tagline": "A connected-universe preview awaiting a deeper reviewed chapter.",
+      "summary": "This draft currently maps Frank Ocean's Odd Future connection without pretending to offer a complete biography or discography.",
+      "coverage": "Connection preview",
+      "genres": ["R&B", "Songwriting"],
+      "collectives": ["Odd Future"],
+      "popular_tracks": [],
+      "albums": [],
+      "chapters": [],
+      "related": [
+        {"universe_id": "odd-future", "relationship": "Member"},
+        {"universe_id": "tyler-the-creator", "relationship": "Collective peer and collaborator"}
+      ]
+    },
+    {
+      "id": "syd",
+      "name": "Syd",
+      "kind": "Artist universe",
+      "initials": "SY",
+      "accent": "#7f6ad6",
+      "accent_secondary": "#d789b4",
+      "tagline": "Engineer, producer, singer, and a bridge between connected universes.",
+      "summary": "A small reviewed path from Odd Future's recording environment into The Internet's collaborative identity.",
+      "coverage": "Reviewed demo coverage: early career–2015",
+      "genres": ["R&B", "Soul", "Production"],
+      "collectives": ["Odd Future", "The Internet"],
+      "popular_tracks": [],
+      "albums": [],
+      "chapters": [
+        {
+          "id": "studio-to-the-internet",
+          "era": "Early career–2015",
+          "title": "Building a place to make music",
+          "dek": "In a TIME interview, Syd described building a studio as a teenager and wanting to produce; The Internet grew from a close collaborative environment with Matt Martians.",
+          "claim_type": "artist-stated",
+          "source_ids": ["time-internet-interview-2015"]
+        }
+      ],
+      "related": [
+        {"universe_id": "odd-future", "relationship": "Member and recording engineer/DJ"},
+        {"universe_id": "the-internet", "relationship": "Co-founder and lead vocalist"},
+        {"universe_id": "tyler-the-creator", "relationship": "Collective peer"}
+      ]
+    },
+    {
+      "id": "the-internet",
+      "name": "The Internet",
+      "kind": "Group universe",
+      "initials": "TI",
+      "accent": "#4a8c7c",
+      "accent_secondary": "#e5b769",
+      "tagline": "A band universe connected through Syd and Matt Martians.",
+      "summary": "A reviewed preview showing how a group can branch from a collective while retaining its own story and sound.",
+      "coverage": "Reviewed demo coverage: formation–2015",
+      "genres": ["R&B", "Soul", "Alternative"],
+      "collectives": [],
+      "popular_tracks": [],
+      "albums": [
+        {
+          "id": "ego-death",
+          "title": "Ego Death",
+          "year": 2015,
+          "type": "Album",
+          "accent": "#b35b6c",
+          "summary": "A collaborative album discussed by Syd and Matt Martians in a contemporary TIME interview.",
+          "before": "The source describes a close home-studio collaboration and the band's desire to make work whose sound resisted a single category.",
+          "tracks": [
+            {"title": "Penthouse Cloud", "theme": "public events / philosophical questioning"}
+          ],
+          "source_ids": ["time-internet-interview-2015"]
+        }
+      ],
+      "chapters": [
+        {
+          "id": "home-studio-collaboration",
+          "era": "Before 2015",
+          "title": "A living room becomes a studio",
+          "dek": "Syd and Matt Martians described living and working together in a space where daily life and music-making overlapped.",
+          "claim_type": "artist-stated",
+          "source_ids": ["time-internet-interview-2015"]
+        }
+      ],
+      "related": [
+        {"universe_id": "syd", "relationship": "Co-founder and lead vocalist"},
+        {"universe_id": "odd-future", "relationship": "Connected through Syd and Matt Martians"}
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-of-internet-world",
+      "universe_id": "odd-future",
+      "title": "Odd Future's internet-native world",
+      "text": "Odd Future used Tumblr and YouTube to publish music alongside informal photos and videos of the collective working, skating, eating, and spending time together. Pitchfork's retrospective argues that this access helped the group grow from local friends into a community with a highly engaged audience.",
+      "claim_type": "reported",
+      "source_ids": ["pitchfork-odd-future-history-2018"],
+      "entities": ["Odd Future", "Tumblr", "YouTube"],
+      "tags": ["internet", "DIY", "collective", "social media", "community"]
+    },
+    {
+      "id": "doc-of-distinct-members",
+      "universe_id": "odd-future",
+      "title": "Distinct creative identities inside the collective",
+      "text": "A Pitchfork retrospective describes Odd Future as a shared platform for members with notably different creative identities, including Tyler, the Creator, Frank Ocean, Earl Sweatshirt, Syd, Domo Genesis, and the production groups surrounding them.",
+      "claim_type": "reported",
+      "source_ids": ["pitchfork-odd-future-history-2018"],
+      "entities": ["Tyler, the Creator", "Frank Ocean", "Earl Sweatshirt", "Syd", "Domo Genesis"],
+      "tags": ["members", "relationships", "perspectives", "solo careers"]
+    },
+    {
+      "id": "doc-of-2011-interview",
+      "universe_id": "odd-future",
+      "title": "Odd Future speaking as a group in 2011",
+      "text": "A March 2011 interview at SXSW captured Tyler, Hodgy, Syd, Domo Genesis, Left Brain, and Mike G discussing their sudden visibility, Tyler's upcoming Goblin album, live appearances, and encounters with established artists.",
+      "claim_type": "documented-fact",
+      "source_ids": ["pitchfork-odd-future-2011"],
+      "entities": ["Odd Future", "Tyler, the Creator", "Syd", "SXSW", "Goblin"],
+      "tags": ["2011", "interview", "rise", "group perspective"]
+    },
+    {
+      "id": "doc-tyler-flower-boy-critical-shift",
+      "universe_id": "tyler-the-creator",
+      "title": "Critics describe a creative shift on Flower Boy",
+      "text": "Contemporary reviews characterized Flower Boy as more meditative, concise, and introspective than Tyler's earlier releases. That language belongs to critics; it should not be presented as a clinical statement or as proof of Tyler's private psychological state.",
+      "claim_type": "critical-interpretation",
+      "source_ids": ["pitchfork-flower-boy-review-2017", "new-yorker-flower-blooms-2017"],
+      "entities": ["Tyler, the Creator", "Flower Boy"],
+      "tags": ["creative shift", "introspection", "criticism", "growth"]
+    },
+    {
+      "id": "doc-tyler-where-flower-blooms",
+      "universe_id": "tyler-the-creator",
+      "title": "A critical reading of Where This Flower Blooms",
+      "text": "The New Yorker's 2017 listening note reads Where This Flower Blooms as a reflection on adulthood, self-definition, isolation, and growth. It identifies Frank Ocean's backing vocals and treats the song's message to young Black listeners as part of that reading.",
+      "claim_type": "critical-interpretation",
+      "source_ids": ["new-yorker-flower-blooms-2017"],
+      "entities": ["Tyler, the Creator", "Where This Flower Blooms", "Frank Ocean"],
+      "tags": ["Flower Boy", "growth", "self-definition", "song meaning"]
+    },
+    {
+      "id": "doc-tyler-pharrell-boundary",
+      "universe_id": "tyler-the-creator",
+      "title": "What this draft can verify about Pharrell's influence",
+      "text": "The reviewed retrospective connects Tyler's message of creative self-definition to the importance he placed on Pharrell's work. This draft does not contain a primary source proving that one private studio intervention directly caused Flower Boy or Where This Flower Blooms, so it does not state that causal story as fact.",
+      "claim_type": "reported",
+      "source_ids": ["pitchfork-odd-future-history-2018"],
+      "entities": ["Tyler, the Creator", "Pharrell Williams", "Flower Boy", "Where This Flower Blooms"],
+      "tags": ["influence", "mentor", "causation", "evidence boundary"]
+    },
+    {
+      "id": "doc-syd-studio-origin",
+      "universe_id": "syd",
+      "title": "Syd's public account of learning production",
+      "text": "In a 2015 TIME interview, Syd said she built a studio in her parents' guesthouse as a teenager and originally wanted to be a producer who also sang hooks. She named Pharrell as a model for that ambition.",
+      "claim_type": "artist-stated",
+      "source_ids": ["time-internet-interview-2015"],
+      "entities": ["Syd", "Pharrell Williams", "The Internet"],
+      "tags": ["studio", "production", "public statement", "creative origin"]
+    },
+    {
+      "id": "doc-internet-collaboration",
+      "universe_id": "the-internet",
+      "title": "The Internet's home-studio collaboration",
+      "text": "Syd and Matt Martians told TIME that they met online, later became roommates, and worked in a living-room studio. Their account describes an everyday collaborative environment rather than a single dramatic origin event.",
+      "claim_type": "artist-stated",
+      "source_ids": ["time-internet-interview-2015"],
+      "entities": ["Syd", "Matt Martians", "The Internet"],
+      "tags": ["collaboration", "studio", "formation", "public statement"]
+    },
+    {
+      "id": "doc-internet-penthouse-cloud",
+      "universe_id": "the-internet",
+      "title": "Syd's public context for Penthouse Cloud",
+      "text": "TIME reported that Syd wrote Penthouse Cloud the morning after the decision in the Michael Brown case. Syd and Matt Martians described the song as philosophical rather than a conventional political protest song.",
+      "claim_type": "artist-stated",
+      "source_ids": ["time-internet-interview-2015"],
+      "entities": ["Syd", "The Internet", "Penthouse Cloud", "Michael Brown"],
+      "tags": ["song context", "public event", "artist statement", "Ego Death"]
+    }
+  ]
+}

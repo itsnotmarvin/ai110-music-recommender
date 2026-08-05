@@ -1,0 +1,53 @@
+[
+  {
+    "id": "known-collective-history",
+    "universe_id": "odd-future",
+    "question": "How did Odd Future use the internet?",
+    "include_interpretations": false,
+    "expected_status": "answered",
+    "must_contain": ["Tumblr", "YouTube"],
+    "requires_sources": true,
+    "requires_guardrail": false
+  },
+  {
+    "id": "artist-public-statement",
+    "universe_id": "syd",
+    "question": "What has Syd publicly said about learning production?",
+    "include_interpretations": false,
+    "expected_status": "answered",
+    "must_contain": ["studio", "producer"],
+    "requires_sources": true,
+    "requires_guardrail": false
+  },
+  {
+    "id": "causal-overclaim",
+    "universe_id": "tyler-the-creator",
+    "question": "Did Pharrell directly cause Tyler to make Flower Boy?",
+    "include_interpretations": false,
+    "expected_status": "answered",
+    "must_contain": ["does not contain a primary source"],
+    "requires_sources": true,
+    "requires_guardrail": true
+  },
+  {
+    "id": "missing-private-detail",
+    "universe_id": "tyler-the-creator",
+    "question": "What did Tyler eat for breakfast on an unknown Tuesday?",
+    "include_interpretations": false,
+    "expected_status": "insufficient-evidence",
+    "must_contain": ["does not contain enough evidence"],
+    "requires_sources": false,
+    "requires_guardrail": true
+  },
+  {
+    "id": "interpretation-opt-in",
+    "universe_id": "tyler-the-creator",
+    "question": "How did critics interpret the creative shift on Flower Boy?",
+    "include_interpretations": true,
+    "expected_status": "answered",
+    "must_contain": ["meditative", "introspective"],
+    "requires_sources": true,
+    "requires_guardrail": false
+  }
+]
+

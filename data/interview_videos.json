@@ -1,0 +1,204 @@
+{
+  "interview_version": "1.0.0",
+  "reviewed_at": "2026-08-04",
+  "videos": [
+    {
+      "id": "video-nardwuar-tyler-2025",
+      "title": "Nardwuar vs. Tyler, The Creator (2025)",
+      "publisher": "NardwuarServiette",
+      "published_at": "2025-03-27",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=vHmg-xaNJX0",
+      "youtube_id": "vHmg-xaNJX0",
+      "profile_ids": ["tyler-the-creator"],
+      "description": "A current-career interview that connects records, influences, objects, and recurring details across Tyler's public story."
+    },
+    {
+      "id": "video-nardwuar-odd-future-2011",
+      "title": "Nardwuar vs. Odd Future",
+      "publisher": "NardwuarServiette",
+      "published_at": "2011-03-22",
+      "source_type": "group-video-interview",
+      "url": "https://www.youtube.com/watch?v=JcHxiWwubnk",
+      "youtube_id": "JcHxiWwubnk",
+      "profile_ids": ["odd-future", "tyler-the-creator"],
+      "description": "A watchable snapshot of the collective during its 2011 breakthrough, centered on Tyler and Hodgy with the group around them."
+    },
+    {
+      "id": "video-bbc-frank-ocean-2012",
+      "title": "Frank Ocean interview — BBC Sound of 2012",
+      "publisher": "BBC",
+      "published_at": "2012",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=65amv0E_sgI",
+      "youtube_id": "65amv0E_sgI",
+      "profile_ids": ["frank-ocean"],
+      "description": "A rare early on-camera interview from the period between nostalgia,ULTRA. and channel ORANGE."
+    },
+    {
+      "id": "video-nardwuar-earl-syd-2013",
+      "title": "Nardwuar vs. Earl Sweatshirt & Syd Tha Kyd",
+      "publisher": "NardwuarServiette",
+      "published_at": "2013-11-07",
+      "source_type": "joint-video-interview",
+      "url": "https://www.youtube.com/watch?v=WbM8kCLDMGg",
+      "youtube_id": "WbM8kCLDMGg",
+      "profile_ids": ["earl-sweatshirt", "syd"],
+      "description": "Earl and Syd discuss music history, personal touchstones, and their shared Odd Future context."
+    },
+    {
+      "id": "video-popcast-internet-reunion",
+      "title": "The Internet — Steve Lacy, Syd, and Matt Martians — Reunites",
+      "publisher": "Popcast",
+      "published_at": "2026",
+      "source_type": "band-video-interview",
+      "url": "https://www.youtube.com/watch?v=f0ESP9gNB-I",
+      "youtube_id": "f0ESP9gNB-I",
+      "profile_ids": ["the-internet", "syd", "matt-martians"],
+      "description": "The band talks about meeting online, Odd Future, solo careers, staying connected, and reuniting."
+    },
+    {
+      "id": "video-domo-genesis-interview",
+      "title": "Domo Genesis: MellowHigh, No Idols, SCRAM, and Odd Future",
+      "publisher": "Beans + Bars",
+      "published_at": "2025",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=qCKL7ec6vVY",
+      "youtube_id": "qCKL7ec6vVY",
+      "profile_ids": ["domo-genesis", "mellowhigh"],
+      "description": "A retrospective conversation spanning Domo's collective, subgroup, and current solo chapters."
+    },
+    {
+      "id": "video-nardwuar-casey-veggies",
+      "title": "Nardwuar vs. Casey Veggies",
+      "publisher": "NardwuarServiette",
+      "published_at": "2012",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=HO7MxQU4mbg",
+      "youtube_id": "HO7MxQU4mbg",
+      "profile_ids": ["casey-veggies"],
+      "description": "Casey discusses his Los Angeles roots, early Odd Future history, and the path he built separately."
+    },
+    {
+      "id": "video-xgames-nakel-smith",
+      "title": "Na-Kel Smith on Odd Future, skating, and creative independence",
+      "publisher": "X Games",
+      "published_at": "2024",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=anJYyANhEUM",
+      "youtube_id": "anJYyANhEUM",
+      "profile_ids": ["na-kel-smith"],
+      "description": "A long-form conversation connecting Na-Kel's skate career, Odd Future orbit, and work across disciplines."
+    },
+    {
+      "id": "video-steveo-jasper-dolphin",
+      "title": "Jasper Dolphin: Tyler, Jackass Forever, and Odd Future",
+      "publisher": "Steve-O's Wild Ride!",
+      "published_at": "2022",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=PFL-UC9LEEk",
+      "youtube_id": "PFL-UC9LEEk",
+      "profile_ids": ["jasper-dolphin", "i-smell-panties"],
+      "description": "Jasper reflects on Tyler, Odd Future, comedy, stunt work, and the friendships behind his earliest music."
+    },
+    {
+      "id": "video-showtime-travis-bennett",
+      "title": "Travis Bennett on Odd Future, Dave, and growing up on tour",
+      "publisher": "DESUS & MERO / SHOWTIME",
+      "published_at": "2021-02-28",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=y1inSiJ8Hps",
+      "youtube_id": "y1inSiJ8Hps",
+      "profile_ids": ["taco-bennett"],
+      "description": "Bennett talks about joining Odd Future as a teenager and moving from touring into acting."
+    },
+    {
+      "id": "video-tonight-show-lionel-boyce",
+      "title": "Lionel Boyce on The Bear and his path to acting",
+      "publisher": "The Tonight Show Starring Jimmy Fallon",
+      "published_at": "2024",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=YllheYuUVSc",
+      "youtube_id": "YllheYuUVSc",
+      "profile_ids": ["l-boy"],
+      "description": "A current screen-career interview that helps carry the L-Boy story into Lionel Boyce's work on The Bear."
+    },
+    {
+      "id": "video-mass-appeal-matt-martians",
+      "title": "Rhythm Roulette: Matt Martians",
+      "publisher": "Mass Appeal",
+      "published_at": "2017",
+      "source_type": "process-video-interview",
+      "url": "https://www.youtube.com/watch?v=IKbuAoEEF44",
+      "youtube_id": "IKbuAoEEF44",
+      "profile_ids": ["matt-martians"],
+      "description": "A studio-format interview showing Martians' production decisions rather than only describing them."
+    },
+    {
+      "id": "video-no-jumper-mike-g-2015",
+      "title": "The Mike G of Odd Future Interview",
+      "publisher": "No Jumper",
+      "published_at": "2015-12-25",
+      "source_type": "long-form-video-interview",
+      "url": "https://www.youtube.com/watch?v=qar-Ml_0Gvg",
+      "youtube_id": "qar-Ml_0Gvg",
+      "profile_ids": ["mike-g"],
+      "description": "Mike G discusses joining Odd Future, Oldie, DJing, Los Angeles, and his creative process."
+    },
+    {
+      "id": "video-left-brain-interview",
+      "title": "Left Brain: Odd Future, production, and new music",
+      "publisher": "Beans + Bars",
+      "published_at": "2025",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=q1URs3RJ9rk",
+      "youtube_id": "q1URs3RJ9rk",
+      "profile_ids": ["left-brain"],
+      "description": "A career-spanning discussion of Left Brain's production beginnings, group memories, and solo work."
+    },
+    {
+      "id": "video-sbtv-hodgy-tyler",
+      "title": "Tyler, The Creator & Hodgy Beats — Odd Future interview",
+      "publisher": "SBTV",
+      "published_at": "2011",
+      "source_type": "joint-video-interview",
+      "url": "https://www.youtube.com/watch?v=bc2EVHWEDxQ",
+      "youtube_id": "bc2EVHWEDxQ",
+      "profile_ids": ["hodgy"],
+      "description": "An early-period interview with Hodgy and Tyler during Odd Future's rapid public rise."
+    },
+    {
+      "id": "video-nardwuar-mellowhype",
+      "title": "Nardwuar vs. MellowHype",
+      "publisher": "NardwuarServiette",
+      "published_at": "2012",
+      "source_type": "duo-video-interview",
+      "url": "https://www.youtube.com/watch?v=RNfVn4uWQPo",
+      "youtube_id": "RNfVn4uWQPo",
+      "profile_ids": ["mellowhype", "hodgy", "left-brain"],
+      "description": "A dedicated Hodgy and Left Brain interview centered on MellowHype's shared history and influences."
+    },
+    {
+      "id": "video-vritra-2019",
+      "title": "Vritra on The Jet Age of Tomorrow, NRK, and The Internet",
+      "publisher": "Sleepwalker Entertainment",
+      "published_at": "2019",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=r46qHV2yQWw",
+      "youtube_id": "r46qHV2yQWw",
+      "profile_ids": ["pyramid-vritra", "the-jet-age-of-tomorrow"],
+      "description": "Vritra describes meeting Matt Martians, forming Jet Age, and building a long solo catalog."
+    },
+    {
+      "id": "video-brandun-deshay-interview",
+      "title": "brandUn DeShay on how he started, anime, games, and production",
+      "publisher": "KIDHYPHEN",
+      "published_at": "date unavailable",
+      "source_type": "video-interview",
+      "url": "https://www.youtube.com/watch?v=_sfv6iTvHvU",
+      "youtube_id": "_sfv6iTvHvU",
+      "profile_ids": ["brandun-deshay"],
+      "description": "An informal interview focused on DeShay's beginnings and the influences behind his producer-rapper identity."
+    }
+  ]
+}

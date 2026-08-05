@@ -1,0 +1,66 @@
+{
+  "context_version": "1.0.0",
+  "reviewed_at": "2026-08-04",
+  "coverage": "Reviewed release-era context for all four Odd Future group projects. Member and subgroup songs inherit the nearest reviewed artist chapter, while track-specific statements remain optional overrides.",
+  "release_contexts": [
+    {
+      "artist": "Odd Future",
+      "album": "The Odd Future Tape",
+      "year": 2008,
+      "title": "Building the platform before the spotlight",
+      "summary": "The first tape came from a still-forming network of teenage friends making music, artwork, video, and clothing under one banner. In a later account of this early working method, Tyler described teaching himself production and choosing to make music he liked instead of shaping it around outside opinions.",
+      "claim_type": "artist-stated",
+      "statement_timing": "Retrospective statement published in 2010",
+      "source_ids": [
+        "fader-odd-future-cover-2010",
+        "pitchfork-odd-future-history-2018"
+      ],
+      "boundary": "This supports the collective's early working environment. It is not evidence that every lyric on the tape describes a real event or Tyler's private state."
+    },
+    {
+      "artist": "Odd Future",
+      "album": "Radical",
+      "year": 2010,
+      "title": "Competition inside a homegrown studio",
+      "summary": "During the free-release period, the group described a room that was both collaborative and competitive. Hodgy explained that members challenged one another while writing in different ways; Tyler described learning instruments and production on his own and often recording with Syd as engineer. Radical belongs to that crowded, self-published moment.",
+      "claim_type": "artist-stated",
+      "statement_timing": "Contemporaneous group profile from 2010",
+      "source_ids": [
+        "fader-odd-future-cover-2010",
+        "pitchfork-odd-future-history-2018"
+      ],
+      "boundary": "The interview describes the shared studio atmosphere, not the private motivation behind every Radical verse."
+    },
+    {
+      "artist": "Odd Future",
+      "album": "12 Odd Future Songs",
+      "year": 2011,
+      "title": "Visibility accelerated while separate projects kept moving",
+      "summary": "By 2011, television, festivals, touring, and a distribution deal had expanded the group's public world, but the members were still developing distinct projects. In a group interview, Syd discussed upcoming Hodgy and MellowHype work, Domo and Mike G projects were underway, and Tyler said he was making beats for Frank Ocean while trying to make prettier music.",
+      "claim_type": "artist-stated",
+      "statement_timing": "Contemporaneous group interview and reporting from 2011",
+      "source_ids": [
+        "pitchfork-odd-future-2011",
+        "fader-odd-future-deal-2011",
+        "musicbrainz-12-odd-future-songs"
+      ],
+      "boundary": "This compilation gathers several branches. Nearby work is shown as context, not proof that one release caused another."
+    },
+    {
+      "artist": "Odd Future",
+      "album": "The OF Tape Vol. 2",
+      "year": 2012,
+      "title": "A group album after the individual voices had become clearer",
+      "summary": "The album arrived after the network had widened into recognizable solo and subgroup paths. The preceding interview record shows Tyler moving between group rap and softer production for Frank, Syd working as an engineer and beginning The Internet, and multiple members maintaining projects of their own. The album places those different voices beside one another rather than presenting a single shared point of view.",
+      "claim_type": "reported",
+      "statement_timing": "Built from pre-release interviews and documented release chronology",
+      "source_ids": [
+        "pitchfork-odd-future-2011",
+        "fader-odd-future-deal-2011",
+        "musicbrainz-of-tape-vol-2",
+        "pitchfork-odd-future-history-2018"
+      ],
+      "boundary": "No single group interview establishes one mental state for every performer or song. Each credited artist's reviewed thread is separated below."
+    }
+  ]
+}

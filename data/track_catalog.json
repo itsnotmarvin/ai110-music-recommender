@@ -1,0 +1,3286 @@
+{
+  "catalog_version": "1.0.0",
+  "updated_at": "2026-08-04",
+  "lyrics_policy": "Lyrics are requested from LRCLIB only when a song page opens and are not copied into this archive. Genius remains an external fallback destination.",
+  "albums": {
+    "tyler-the-creator:bastard": {
+      "tracklist_source_url": "https://musicbrainz.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_ne3Ri6lpa5OWjfABCZbeNxRD13o1NN4RQ",
+      "apple_music_url": null,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Bastard",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "I98_o7LFvC0",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Bastard",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=I98_o7LFvC0",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Seven",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "F9WkIObFYWk",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Seven",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=F9WkIObFYWk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Odd Toddlers",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Casey Veggies"
+          ],
+          "theme": "Collaboration featuring Casey Veggies",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Odd+Toddlers",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Tyler%2C+The+Creator+Odd+Toddlers+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 4,
+          "title": "French!",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats",
+          "youtube_id": "cfUa16G3Oko",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+French%21",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=cfUa16G3Oko",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Blow",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "_Q8Hf7oqWvA",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Blow",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=_Q8Hf7oqWvA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Pigs Fly",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Domo Genesis"
+          ],
+          "theme": "Collaboration featuring Domo Genesis",
+          "youtube_id": "Fbv7FVyPh3c",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Pigs+Fly",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Fbv7FVyPh3c",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Parade",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "2kAoXg7KNEs",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Parade",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2kAoXg7KNEs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Slow It Down",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats",
+          "youtube_id": "gO8yuvWB970",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Slow+It+Down",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=gO8yuvWB970",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "AssMilk",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Earl Sweatshirt"
+          ],
+          "theme": "Collaboration featuring Earl Sweatshirt",
+          "youtube_id": "n367UI_r4no",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+AssMilk",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=n367UI_r4no",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "VCR / Wheels",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "kPAQkCkD6r8",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+VCR+%2F+Wheels",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kPAQkCkD6r8",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Session",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats",
+            "Mike G",
+            "Brandun DeShay"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats, Mike G, Brandun DeShay",
+          "youtube_id": "_RM-ajdqtX4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Session",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=_RM-ajdqtX4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "Sarah",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "BezlFt71hXg",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sarah",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=BezlFt71hXg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "Jack and the Beanstalk",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Gk3S9VZPhnk",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Jack+and+the+Beanstalk",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Gk3S9VZPhnk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "Tina",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Jasper Dolphin",
+            "Taco"
+          ],
+          "theme": "Collaboration featuring Jasper Dolphin, Taco",
+          "youtube_id": "G6HscCP540M",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Tina",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=G6HscCP540M",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "Inglorious",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "BI0Hu8fItxI",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Inglorious",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=BI0Hu8fItxI",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:goblin": {
+      "tracklist_source_url": "https://music.apple.com/us/album/433409557",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_nLGkfuNoqeLNXqIsQPNv3E3cc2sS2l4Kc",
+      "apple_music_url": "https://music.apple.com/us/album/433409557",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Goblin",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "0XeWnVa7a5Q",
+          "apple_music_url": "https://music.apple.com/us/album/goblin/433409557?i=433409588&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Goblin",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=0XeWnVa7a5Q",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Yonkers",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "XSbZidsgMfw",
+          "apple_music_url": "https://music.apple.com/us/album/yonkers/433409557?i=433409590&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Yonkers",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=XSbZidsgMfw",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Radicals",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "D1wbULXdG2k",
+          "apple_music_url": "https://music.apple.com/us/album/radicals/433409557?i=433409594&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Radicals",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=D1wbULXdG2k",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "She",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Frank Ocean"
+          ],
+          "theme": "Collaboration featuring Frank Ocean",
+          "youtube_id": "mFNaFeIm4bU",
+          "apple_music_url": "https://music.apple.com/us/album/she-feat-frank-ocean/433409557?i=433409598&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+She",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=mFNaFeIm4bU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Transylvania",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "LNJgjDbUr0k",
+          "apple_music_url": "https://music.apple.com/us/album/transylvania/433409557?i=433409621&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Transylvania",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=LNJgjDbUr0k",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Nightmare",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Cbvk52J-YIU",
+          "apple_music_url": "https://music.apple.com/us/album/nightmare/433409557?i=433409622&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Nightmare",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Cbvk52J-YIU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Tron Cat",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "8Vd3zpxj6X4",
+          "apple_music_url": "https://music.apple.com/us/album/tron-cat/433409557?i=433409623&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Tron+Cat",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=8Vd3zpxj6X4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Her",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "rWANu6cOMzE",
+          "apple_music_url": "https://music.apple.com/us/album/her/433409557?i=433409628&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Her",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=rWANu6cOMzE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "Sandwitches",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats",
+          "youtube_id": "84vE-yN3Hrs",
+          "apple_music_url": "https://music.apple.com/us/album/sandwitches-feat-hodgy-beats/433409557?i=433409629&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sandwitches",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=84vE-yN3Hrs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "Fish",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "7mrq4a9o-ds",
+          "apple_music_url": "https://music.apple.com/us/album/fish/433409557?i=433409630&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Fish",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=7mrq4a9o-ds",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Analog",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats",
+          "youtube_id": "fc-C6loh3lU",
+          "apple_music_url": "https://music.apple.com/us/album/analog-feat-hodgy-beats/433409557?i=433409635&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Analog",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=fc-C6loh3lU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "B.S.D.",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Jasper Dolphin",
+            "TACO"
+          ],
+          "theme": "Collaboration featuring Jasper Dolphin, TACO",
+          "youtube_id": "oaHN2150lP0",
+          "apple_music_url": "https://music.apple.com/us/album/b-s-d-feat-jasper-dolphin-taco/433409557?i=433409641&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+B.S.D.",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=oaHN2150lP0",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "Window",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Domo Genesis",
+            "Frank Ocean",
+            "Hodgy Beats",
+            "Mike G"
+          ],
+          "theme": "Collaboration featuring Domo Genesis, Frank Ocean, Hodgy Beats, Mike G",
+          "youtube_id": "kl-u29IV-OU",
+          "apple_music_url": "https://music.apple.com/us/album/window-feat-domo-genesis-frank-ocean-hodgy-beats-mike-g/433409557?i=433409648&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Window",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kl-u29IV-OU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "AU79",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "3OfscnthDVM",
+          "apple_music_url": "https://music.apple.com/us/album/au79/433409557?i=433409655&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+AU79",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=3OfscnthDVM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "Golden",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "kkr1lwYQ2sc",
+          "apple_music_url": "https://music.apple.com/us/album/golden/433409557?i=433409657&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Golden",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kkr1lwYQ2sc",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 16,
+          "title": "Burger",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy Beats"
+          ],
+          "theme": "Collaboration featuring Hodgy Beats",
+          "youtube_id": "x5SAxkTW3bM",
+          "apple_music_url": "https://music.apple.com/us/album/burger-feat-hodgy-beats/433409557?i=433409658&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Burger",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=x5SAxkTW3bM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 17,
+          "title": "Untitled 63",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "DWEH8ojJfyA",
+          "apple_music_url": "https://music.apple.com/us/album/untitled-63/433409557?i=433409659&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Untitled+63",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=DWEH8ojJfyA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 18,
+          "title": "Steak Sauce",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "6HlRc8G35_U",
+          "apple_music_url": "https://music.apple.com/us/album/steak-sauce/433409557?i=433409660&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Steak+Sauce",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=6HlRc8G35_U",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:wolf": {
+      "tracklist_source_url": "https://music.apple.com/us/album/600946351",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_l8rapILEWWRQYoFcT_rdRoxfCuNy1yqPU",
+      "apple_music_url": "https://music.apple.com/us/album/600946351",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "WOLF",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "AknjeiApwhg",
+          "apple_music_url": "https://music.apple.com/us/album/wolf/600946351?i=600946352&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WOLF",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=AknjeiApwhg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Jamba",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Hodgy"
+          ],
+          "theme": "Collaboration featuring Hodgy",
+          "youtube_id": "bjTlmQCB020",
+          "apple_music_url": "https://music.apple.com/us/album/jamba-feat-hodgy/600946351?i=600946353&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Jamba",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=bjTlmQCB020",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Cowboy",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "kIrWCBIvXSA",
+          "apple_music_url": "https://music.apple.com/us/album/cowboy/600946351?i=600946354&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Cowboy",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kIrWCBIvXSA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "Awkward",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "aG3mbIZY92E",
+          "apple_music_url": "https://music.apple.com/us/album/awkward/600946351?i=600946355&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Awkward",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=aG3mbIZY92E",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Domo23",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "pzDEUXljDQM",
+          "apple_music_url": "https://music.apple.com/us/album/domo23/600946351?i=600946357&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Domo23",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=pzDEUXljDQM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Answer",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "QIuIdZ_L4iY",
+          "apple_music_url": "https://music.apple.com/us/album/answer/600946351?i=600946358&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Answer",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=QIuIdZ_L4iY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Slater",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Frank Ocean"
+          ],
+          "theme": "Collaboration featuring Frank Ocean",
+          "youtube_id": "FD-0K8G3Nyk",
+          "apple_music_url": "https://music.apple.com/us/album/slater-feat-frank-ocean/600946351?i=600946359&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Slater",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=FD-0K8G3Nyk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "48",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "4DZuvcBj70w",
+          "apple_music_url": "https://music.apple.com/us/album/48/600946351?i=600946360&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+48",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=4DZuvcBj70w",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "Colossus",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Nn0tZl3Plcs",
+          "apple_music_url": "https://music.apple.com/us/album/colossus/600946351?i=600946361&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Colossus",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Nn0tZl3Plcs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "PartyIsntOver/Campfire/Bimmer",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Frank Ocean",
+            "Laetitia Sadier"
+          ],
+          "theme": "Collaboration featuring Frank Ocean, Laetitia Sadier",
+          "youtube_id": "ivI0J1Z1uK4",
+          "apple_music_url": "https://music.apple.com/us/album/partyisntover-campfire-bimmer-feat-frank-ocean-laetitia/600946351?i=600946362&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+PartyIsntOver%2FCampfire%2FBimmer",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=ivI0J1Z1uK4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "IFHY",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Pharrell Williams"
+          ],
+          "theme": "Collaboration featuring Pharrell Williams",
+          "youtube_id": "3lDqMx4rmFU",
+          "apple_music_url": "https://music.apple.com/us/album/ifhy-feat-pharrell-williams/600946351?i=600946363&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+IFHY",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=3lDqMx4rmFU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "Pigs",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "gmr4iZ5dimY",
+          "apple_music_url": "https://music.apple.com/us/album/pigs/600946351?i=600946364&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Pigs",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=gmr4iZ5dimY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "Parking Lot",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Casey Veggies",
+            "Mike G"
+          ],
+          "theme": "Collaboration featuring Casey Veggies, Mike G",
+          "youtube_id": "FRaBSQlGCus",
+          "apple_music_url": "https://music.apple.com/us/album/parking-lot-feat-casey-veggies-mike-g/600946351?i=600946365&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Parking+Lot",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=FRaBSQlGCus",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "Rusty",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Domo Genesis",
+            "Earl Sweatshirt"
+          ],
+          "theme": "Collaboration featuring Domo Genesis, Earl Sweatshirt",
+          "youtube_id": "4fGyXDiGvXQ",
+          "apple_music_url": "https://music.apple.com/us/album/rusty-feat-domo-genesis-earl-sweatshirt/600946351?i=600946366&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Rusty",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=4fGyXDiGvXQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "Trashwang",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Na-Kel Smith",
+            "Jasper Dolphin",
+            "Lucas",
+            "L-Boy",
+            "Taco",
+            "Left Brain",
+            "Lee Spielman"
+          ],
+          "theme": "Collaboration featuring Na-Kel Smith, Jasper Dolphin, Lucas, L-Boy, Taco, Left Brain, Lee Spielman",
+          "youtube_id": "6msCJ1rmeEE",
+          "apple_music_url": "https://music.apple.com/us/album/trashwang-feat-na-kel-smith-jasper-dolphin-lucas-l/600946351?i=600946367&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Trashwang",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=6msCJ1rmeEE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 16,
+          "title": "Treehome95",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Coco O.",
+            "Erykah Badu"
+          ],
+          "theme": "Collaboration featuring Coco O., Erykah Badu",
+          "youtube_id": "kpVpEnP7ELM",
+          "apple_music_url": "https://music.apple.com/us/album/treehome95-feat-coco-o-erykah-badu/600946351?i=600946368&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Treehome95",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kpVpEnP7ELM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 17,
+          "title": "Tamale",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "OxlJLz9M8hQ",
+          "apple_music_url": "https://music.apple.com/us/album/tamale/600946351?i=600947069&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Tamale",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=OxlJLz9M8hQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 18,
+          "title": "Lone",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "QICNyBMod6M",
+          "apple_music_url": "https://music.apple.com/us/album/lone/600946351?i=600947070&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Lone",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=QICNyBMod6M",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:cherry-bomb": {
+      "tracklist_source_url": "https://music.apple.com/us/album/983056044",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_mb-jIf2zXWrfTBkdLA-sQsgJEqih8aQGo",
+      "apple_music_url": "https://music.apple.com/us/album/983056044",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "DEATHCAMP",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Cole Alexander"
+          ],
+          "theme": "Collaboration featuring Cole Alexander",
+          "youtube_id": "Yk1HipdhdCU",
+          "apple_music_url": "https://music.apple.com/us/album/deathcamp-feat-cole-alexander/983056044?i=983056047&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+DEATHCAMP",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Yk1HipdhdCU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "BUFFALO",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Shane Powers"
+          ],
+          "theme": "Collaboration featuring Shane Powers",
+          "youtube_id": "2QlVtadoZCA",
+          "apple_music_url": "https://music.apple.com/us/album/buffalo-feat-shane-powers/983056044?i=983056050&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+BUFFALO",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2QlVtadoZCA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "PILOT",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Syd Bennett"
+          ],
+          "theme": "Collaboration featuring Syd Bennett",
+          "youtube_id": "Z_QfmPZNlhw",
+          "apple_music_url": "https://music.apple.com/us/album/pilot-feat-syd-bennett/983056044?i=983056051&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+PILOT",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Z_QfmPZNlhw",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "RUN",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Chaz Bundick",
+            "ScHoolboy Q"
+          ],
+          "theme": "Collaboration featuring Chaz Bundick, ScHoolboy Q",
+          "youtube_id": "8XjvfD_FwYA",
+          "apple_music_url": "https://music.apple.com/us/album/run-feat-chaz-bundick-and-schoolboy-q/983056044?i=983056052&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+RUN",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=8XjvfD_FwYA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "FIND YOUR WINGS",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Roy Ayers",
+            "Syd Bennett",
+            "Kali Uchis"
+          ],
+          "theme": "Collaboration featuring Roy Ayers, Syd Bennett, Kali Uchis",
+          "youtube_id": "Zf_TvbfP-TU",
+          "apple_music_url": "https://music.apple.com/us/album/find-your-wings-feat-roy-ayers-syd-bennett-and-kali-uchis/983056044?i=983056053&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+FIND+YOUR+WINGS",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Zf_TvbfP-TU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "CHERRY BOMB",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "DwOyRejJ07Q",
+          "apple_music_url": "https://music.apple.com/us/album/cherry-bomb/983056044?i=983056054&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+CHERRY+BOMB",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=DwOyRejJ07Q",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "BLOW MY LOAD",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Wanya Morris",
+            "DâmFunk",
+            "Austin Feinstein",
+            "Syd Bennett"
+          ],
+          "theme": "Collaboration featuring Wanya Morris, DâmFunk, Austin Feinstein, Syd Bennett",
+          "youtube_id": "bj8X4JeDmcM",
+          "apple_music_url": "https://music.apple.com/us/album/blow-my-load-feat-wanya-morris-d%C3%A2mfunk-austin-feinstein/983056044?i=983056535&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+BLOW+MY+LOAD",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=bj8X4JeDmcM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "2SEATER",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Aaron Shaw",
+            "Samantha Nelson",
+            "Austin Feinstein"
+          ],
+          "theme": "Collaboration featuring Aaron Shaw, Samantha Nelson, Austin Feinstein",
+          "youtube_id": "zIkjsPIdAWg",
+          "apple_music_url": "https://music.apple.com/us/album/2seater-feat-aaron-shaw-samantha-nelson-and-austin/983056044?i=983056536&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+2SEATER",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=zIkjsPIdAWg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (REMIX)",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "ScHoolboy Q"
+          ],
+          "theme": "Collaboration featuring ScHoolboy Q",
+          "youtube_id": "Y8SaaNqHCN4",
+          "apple_music_url": "https://music.apple.com/us/album/the-brown-stains-of-darkeese-latifah-part-6-12/983056044?i=983056537&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+THE+BROWN+STAINS+OF+DARKEESE+LATIFAH+PART+6-12+%28REMIX%29",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Y8SaaNqHCN4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "F*****G YOUNG / PERFECT",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Charlie Wilson",
+            "Chaz Bundick",
+            "Syd Bennett",
+            "Kali Uchis"
+          ],
+          "theme": "Collaboration featuring Charlie Wilson, Chaz Bundick, Syd Bennett, Kali Uchis",
+          "youtube_id": "fCSq2NKk9ng",
+          "apple_music_url": "https://music.apple.com/us/album/f-g-young-perfect-feat-charlie-wilson-chaz-bundick/983056044?i=983056538&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+F%2A%2A%2A%2A%2AG+YOUNG+%2F+PERFECT",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=fCSq2NKk9ng",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "SMUCKERS",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Lil Wayne",
+            "Kanye West"
+          ],
+          "theme": "Collaboration featuring Lil Wayne, Kanye West",
+          "youtube_id": "0vrBBRjk2fc",
+          "apple_music_url": "https://music.apple.com/us/album/smuckers-feat-lil-wayne-and-kanye-west/983056044?i=983056541&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+SMUCKERS",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=0vrBBRjk2fc",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "KEEP DA O'S",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Pharrell Williams",
+            "Coco O."
+          ],
+          "theme": "Collaboration featuring Pharrell Williams, Coco O.",
+          "youtube_id": "UDt7ZZZ48cE",
+          "apple_music_url": "https://music.apple.com/us/album/keep-da-os-feat-pharrell-williams-and-coco-o/983056044?i=983056548&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+KEEP+DA+O%27S",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=UDt7ZZZ48cE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "OKAGA, CA",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Alice Smith",
+            "Leon Ware",
+            "Clem Creevy"
+          ],
+          "theme": "Collaboration featuring Alice Smith, Leon Ware, Clem Creevy",
+          "youtube_id": "CbUsMUbwi1k",
+          "apple_music_url": "https://music.apple.com/us/album/okaga-ca-feat-alice-smith-leon-ware-and-clem-creevy/983056044?i=983056551&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+OKAGA%2C+CA",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=CbUsMUbwi1k",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:flower-boy": {
+      "tracklist_source_url": "https://music.apple.com/us/album/1254572564",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_lUqR8HVQWD77rRBdA5eVCNat5EJQ7P6-s",
+      "apple_music_url": "https://music.apple.com/us/album/1254572564",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Foreword",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Rex Orange County"
+          ],
+          "theme": "Collaboration featuring Rex Orange County",
+          "youtube_id": "MvEtKc8-n3s",
+          "apple_music_url": "https://music.apple.com/us/album/foreword-feat-rex-orange-county/1254572564?i=1254572566&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Foreword",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=MvEtKc8-n3s",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Where This Flower Blooms",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Frank Ocean"
+          ],
+          "theme": "Collaboration featuring Frank Ocean",
+          "youtube_id": "1gAHhLb6tjA",
+          "apple_music_url": "https://music.apple.com/us/album/where-this-flower-blooms-feat-frank-ocean/1254572564?i=1254572567&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Where+This+Flower+Blooms",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=1gAHhLb6tjA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Sometimes...",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "rJAhkWa4UR4",
+          "apple_music_url": "https://music.apple.com/us/album/sometimes/1254572564?i=1254572571&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sometimes...",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=rJAhkWa4UR4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "See You Again",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Kali Uchis"
+          ],
+          "theme": "Collaboration featuring Kali Uchis",
+          "youtube_id": "TGgcC5xg9YI",
+          "apple_music_url": "https://music.apple.com/us/album/see-you-again-feat-kali-uchis/1254572564?i=1254572572&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+See+You+Again",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=TGgcC5xg9YI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Who Dat Boy",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "A$AP Rocky"
+          ],
+          "theme": "Collaboration featuring A$AP Rocky",
+          "youtube_id": "FUXX55WqYZs",
+          "apple_music_url": "https://music.apple.com/us/album/who-dat-boy-feat-a%24ap-rocky/1254572564?i=1254572574&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Who+Dat+Boy",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=FUXX55WqYZs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Pothole",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Jaden Smith"
+          ],
+          "theme": "Collaboration featuring Jaden Smith",
+          "youtube_id": "_wvhrRb3oU0",
+          "apple_music_url": "https://music.apple.com/us/album/pothole-feat-jaden-smith/1254572564?i=1254572575&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Pothole",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=_wvhrRb3oU0",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Garden Shed",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Estelle"
+          ],
+          "theme": "Collaboration featuring Estelle",
+          "youtube_id": "-VgLwAjz4oA",
+          "apple_music_url": "https://music.apple.com/us/album/garden-shed-feat-estelle/1254572564?i=1254572577&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Garden+Shed",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=-VgLwAjz4oA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Boredom",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Rex Orange County",
+            "Anna of the North"
+          ],
+          "theme": "Collaboration featuring Rex Orange County, Anna of the North",
+          "youtube_id": "jxlBOBOZHqI",
+          "apple_music_url": "https://music.apple.com/us/album/boredom-feat-rex-orange-county-anna-of-the-north/1254572564?i=1254572578&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Boredom",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=jxlBOBOZHqI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "I Ain't Got Time!",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "9RsIFKxP47s",
+          "apple_music_url": "https://music.apple.com/us/album/i-aint-got-time/1254572564?i=1254572581&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I+Ain%27t+Got+Time%21",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=9RsIFKxP47s",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "911 / Mr. Lonely",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Frank Ocean",
+            "Steve Lacy"
+          ],
+          "theme": "Collaboration featuring Frank Ocean, Steve Lacy",
+          "youtube_id": "khMb3k-Wwvg",
+          "apple_music_url": "https://music.apple.com/us/album/911-mr-lonely-feat-frank-ocean-steve-lacy/1254572564?i=1254572582&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+911+%2F+Mr.+Lonely",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=khMb3k-Wwvg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Droppin' Seeds",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Lil' Wayne"
+          ],
+          "theme": "Collaboration featuring Lil' Wayne",
+          "youtube_id": "MebxCTlHKto",
+          "apple_music_url": "https://music.apple.com/us/album/droppin-seeds-feat-lil-wayne/1254572564?i=1254572583&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Droppin%27+Seeds",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=MebxCTlHKto",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "November",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "JaXoDWSQQrk",
+          "apple_music_url": "https://music.apple.com/us/album/november/1254572564?i=1254572584&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+November",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=JaXoDWSQQrk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "Glitter",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "iNP8_xtq8YU",
+          "apple_music_url": "https://music.apple.com/us/album/glitter/1254572564?i=1254572585&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Glitter",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=iNP8_xtq8YU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "Enjoy Right Now, Today",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "nJDwwB1JCxM",
+          "apple_music_url": "https://music.apple.com/us/album/enjoy-right-now-today/1254572564?i=1254572586&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Enjoy+Right+Now%2C+Today",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=nJDwwB1JCxM",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:igor": {
+      "tracklist_source_url": "https://music.apple.com/us/album/1463409338",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_lpv17dzKsIp6huLYAxQEYFw3vK8Wsd1FQ",
+      "apple_music_url": "https://music.apple.com/us/album/1463409338",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "IGOR'S THEME",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "6S20mJvr4vs",
+          "apple_music_url": "https://music.apple.com/us/album/igors-theme/1463409338?i=1463409349&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+IGOR%27S+THEME",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=6S20mJvr4vs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "EARFQUAKE",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "HmAsUQEFYGI",
+          "apple_music_url": "https://music.apple.com/us/album/earfquake/1463409338?i=1463409350&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+EARFQUAKE",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=HmAsUQEFYGI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "I THINK",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "m91Vq-Yd3BA",
+          "apple_music_url": "https://music.apple.com/us/album/i-think/1463409338?i=1463409354&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I+THINK",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=m91Vq-Yd3BA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "dqZ8vr_Q4UI",
+          "apple_music_url": "https://music.apple.com/us/album/exactly-what-you-run-from-you-end-up-chasing/1463409338?i=1463409355&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+EXACTLY+WHAT+YOU+RUN+FROM+YOU+END+UP+CHASING",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=dqZ8vr_Q4UI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "RUNNING OUT OF TIME",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Uyf_lImpdRw",
+          "apple_music_url": "https://music.apple.com/us/album/running-out-of-time/1463409338?i=1463409596&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+RUNNING+OUT+OF+TIME",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Uyf_lImpdRw",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "NEW MAGIC WAND",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "2w8KUgIkAu8",
+          "apple_music_url": "https://music.apple.com/us/album/new-magic-wand/1463409338?i=1463409601&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+NEW+MAGIC+WAND",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2w8KUgIkAu8",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "A BOY IS A GUN",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "9JQDPjpfiGw",
+          "apple_music_url": "https://music.apple.com/us/album/a-boy-is-a-gun/1463409338?i=1463409605&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+A+BOY+IS+A+GUN",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=9JQDPjpfiGw",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "PUPPET",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "OZzfUagtyPE",
+          "apple_music_url": "https://music.apple.com/us/album/puppet/1463409338?i=1463409610&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+PUPPET",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=OZzfUagtyPE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "WHAT'S GOOD",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "on7pfd91cKc",
+          "apple_music_url": "https://music.apple.com/us/album/whats-good/1463409338?i=1463409616&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WHAT%27S+GOOD",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=on7pfd91cKc",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "GONE, GONE / THANK YOU",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "pVInBRkoKgY",
+          "apple_music_url": "https://music.apple.com/us/album/gone-gone-thank-you/1463409338?i=1463409621&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+GONE%2C+GONE+%2F+THANK+YOU",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=pVInBRkoKgY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "I DON'T LOVE YOU ANYMORE",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "ZJsJ07vk23o",
+          "apple_music_url": "https://music.apple.com/us/album/i-dont-love-you-anymore/1463409338?i=1463409625&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I+DON%27T+LOVE+YOU+ANYMORE",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=ZJsJ07vk23o",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "ARE WE STILL FRIENDS?",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Gb76TgCUqAY",
+          "apple_music_url": "https://music.apple.com/us/album/are-we-still-friends/1463409338?i=1463409716&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+ARE+WE+STILL+FRIENDS%3F",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Gb76TgCUqAY",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:call-me-if-you-get-lost": {
+      "tracklist_source_url": "https://music.apple.com/us/album/1679454273",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_kSIbgi-WxAiBFs28kWN1cMy7bewO3-LCs",
+      "apple_music_url": "https://music.apple.com/us/album/1679454273",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "SIR BAUDELAIRE",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "DJ Drama"
+          ],
+          "theme": "Collaboration featuring DJ Drama",
+          "youtube_id": "Z-lCE23e12I",
+          "apple_music_url": "https://music.apple.com/us/album/sir-baudelaire-feat-dj-drama/1679454273?i=1679454526&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+SIR+BAUDELAIRE",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Z-lCE23e12I",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "CORSO",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Lqvwm3zAILI",
+          "apple_music_url": "https://music.apple.com/us/album/corso/1679454273?i=1679454549&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+CORSO",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Lqvwm3zAILI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "LEMONHEAD",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "42 Dugg"
+          ],
+          "theme": "Collaboration featuring 42 Dugg",
+          "youtube_id": "a5JCltuobqQ",
+          "apple_music_url": "https://music.apple.com/us/album/lemonhead-feat-42-dugg/1679454273?i=1679454550&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+LEMONHEAD",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=a5JCltuobqQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "WUSYANAME",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "YoungBoy Never Broke Again",
+            "Ty Dolla $ign"
+          ],
+          "theme": "Collaboration featuring YoungBoy Never Broke Again, Ty Dolla $ign",
+          "youtube_id": "EQ3DBh8N3s8",
+          "apple_music_url": "https://music.apple.com/us/album/wusyaname-feat-youngboy-never-broke-again-ty-dolla-%24ign/1679454273?i=1679454658&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WUSYANAME",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=EQ3DBh8N3s8",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "LUMBERJACK",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "R4Y7JIQlv20",
+          "apple_music_url": "https://music.apple.com/us/album/lumberjack/1679454273?i=1679454661&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+LUMBERJACK",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=R4Y7JIQlv20",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "HOT WIND BLOWS",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Lil Wayne"
+          ],
+          "theme": "Collaboration featuring Lil Wayne",
+          "youtube_id": "fwGs72ihIeI",
+          "apple_music_url": "https://music.apple.com/us/album/hot-wind-blows-feat-lil-wayne/1679454273?i=1679454675&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+HOT+WIND+BLOWS",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=fwGs72ihIeI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "MASSA",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "0vGz0bFutZs",
+          "apple_music_url": "https://music.apple.com/us/album/massa/1679454273?i=1679454754&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+MASSA",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=0vGz0bFutZs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "RUNITUP",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Teezo Touchdown"
+          ],
+          "theme": "Collaboration featuring Teezo Touchdown",
+          "youtube_id": "uLXPCPkQBh0",
+          "apple_music_url": "https://music.apple.com/us/album/runitup-feat-teezo-touchdown/1679454273?i=1679454756&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+RUNITUP",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=uLXPCPkQBh0",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "MANIFESTO",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Domo Genesis"
+          ],
+          "theme": "Collaboration featuring Domo Genesis",
+          "youtube_id": "VnDXCoHRl4o",
+          "apple_music_url": "https://music.apple.com/us/album/manifesto-feat-domo-genesis/1679454273?i=1679454761&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+MANIFESTO",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=VnDXCoHRl4o",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "SWEET / I THOUGHT YOU WANTED TO DANCE",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Brent Faiyaz",
+            "Fana Hues"
+          ],
+          "theme": "Collaboration featuring Brent Faiyaz, Fana Hues",
+          "youtube_id": "ZKjIHQxG_3Q",
+          "apple_music_url": "https://music.apple.com/us/album/sweet-i-thought-you-wanted-to-dance-feat-brent-faiyaz/1679454273?i=1679454762&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=ZKjIHQxG_3Q",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "MOMMA TALK",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "YYLZ4iDMyrk",
+          "apple_music_url": "https://music.apple.com/us/album/momma-talk/1679454273?i=1679454764&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+MOMMA+TALK",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=YYLZ4iDMyrk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "RISE!",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "DAISY WORLD"
+          ],
+          "theme": "Collaboration featuring DAISY WORLD",
+          "youtube_id": "Znwgjl4wuPo",
+          "apple_music_url": "https://music.apple.com/us/album/rise-feat-daisy-world/1679454273?i=1679454947&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+RISE%21",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Znwgjl4wuPo",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "BLESSED",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "opm2OTKAffE",
+          "apple_music_url": "https://music.apple.com/us/album/blessed/1679454273?i=1679454951&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+BLESSED",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=opm2OTKAffE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "JUGGERNAUT",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Lil Uzi Vert",
+            "Pharrell Williams"
+          ],
+          "theme": "Collaboration featuring Lil Uzi Vert, Pharrell Williams",
+          "youtube_id": "icoOOiSlKK0",
+          "apple_music_url": "https://music.apple.com/us/album/juggernaut-feat-lil-uzi-vert-pharrell-williams/1679454273?i=1679454953&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+JUGGERNAUT",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=icoOOiSlKK0",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "WILSHIRE",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "LxGVyJLjbiY",
+          "apple_music_url": "https://music.apple.com/us/album/wilshire/1679454273?i=1679454956&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WILSHIRE",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=LxGVyJLjbiY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 16,
+          "title": "SAFARI",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "hWEukIWVw3o",
+          "apple_music_url": "https://music.apple.com/us/album/safari/1679454273?i=1679454966&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+SAFARI",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=hWEukIWVw3o",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 17,
+          "title": "EVERYTHING MUST GO",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "t7hS8FSH-Vs",
+          "apple_music_url": "https://music.apple.com/us/album/everything-must-go/1679454273?i=1679454968&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+EVERYTHING+MUST+GO",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=t7hS8FSH-Vs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 18,
+          "title": "STUNTMAN",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Vince Staples"
+          ],
+          "theme": "Collaboration featuring Vince Staples",
+          "youtube_id": "lgLLWXMTsUA",
+          "apple_music_url": "https://music.apple.com/us/album/stuntman-feat-vince-staples/1679454273?i=1679454975&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+STUNTMAN",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=lgLLWXMTsUA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 19,
+          "title": "WHAT A DAY",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "J3olMh9iv0k",
+          "apple_music_url": "https://music.apple.com/us/album/what-a-day/1679454273?i=1679455188&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WHAT+A+DAY",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=J3olMh9iv0k",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 20,
+          "title": "WHARF TALK",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "A$AP Rocky"
+          ],
+          "theme": "Collaboration featuring A$AP Rocky",
+          "youtube_id": "27FswS3KESk",
+          "apple_music_url": "https://music.apple.com/us/album/wharf-talk-feat-a%24ap-rocky/1679454273?i=1679455192&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+WHARF+TALK",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=27FswS3KESk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 21,
+          "title": "DOGTOOTH",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "2TVXi_9Bvlg",
+          "apple_music_url": "https://music.apple.com/us/album/dogtooth/1679454273?i=1679455196&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+DOGTOOTH",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2TVXi_9Bvlg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 22,
+          "title": "HEAVEN TO ME",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "wm_hfvgakcM",
+          "apple_music_url": "https://music.apple.com/us/album/heaven-to-me/1679454273?i=1679455199&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+HEAVEN+TO+ME",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=wm_hfvgakcM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 23,
+          "title": "BOYFRIEND, GIRLFRIEND (2020 Demo)",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "YG"
+          ],
+          "theme": "Collaboration featuring YG",
+          "youtube_id": "nteYkDKLnps",
+          "apple_music_url": "https://music.apple.com/us/album/boyfriend-girlfriend-2020-demo-feat-yg/1679454273?i=1679455209&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+BOYFRIEND%2C+GIRLFRIEND+%282020+Demo%29",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=nteYkDKLnps",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 24,
+          "title": "SORRY NOT SORRY",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "LSIOcCcEVaE",
+          "apple_music_url": "https://music.apple.com/us/album/sorry-not-sorry/1679454273?i=1679455493&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+SORRY+NOT+SORRY",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=LSIOcCcEVaE",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:chromakopia": {
+      "tracklist_source_url": "https://music.apple.com/us/album/1848185473",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_nJsodC-lrLeHCE-KZNzyhdrtKNFUC3_Tc",
+      "apple_music_url": "https://music.apple.com/us/album/1848185473",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "St. Chroma",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Daniel Caesar"
+          ],
+          "theme": "Collaboration featuring Daniel Caesar",
+          "youtube_id": "33b53NUGF_Q",
+          "apple_music_url": "https://music.apple.com/us/album/st-chroma-feat-daniel-caesar/1848185473?i=1848185476&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+St.+Chroma",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=33b53NUGF_Q",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Rah Tah Tah",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "91SAqxkQuEQ",
+          "apple_music_url": "https://music.apple.com/us/album/rah-tah-tah/1848185473?i=1848185477&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Rah+Tah+Tah",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=91SAqxkQuEQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Noid",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Qer3lwd5hyA",
+          "apple_music_url": "https://music.apple.com/us/album/noid/1848185473?i=1848185479&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Noid",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Qer3lwd5hyA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "Darling, I",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Teezo Touchdown"
+          ],
+          "theme": "Collaboration featuring Teezo Touchdown",
+          "youtube_id": "kZfz5UlsHlQ",
+          "apple_music_url": "https://music.apple.com/us/album/darling-i-feat-teezo-touchdown/1848185473?i=1848185480&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Darling%2C+I",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=kZfz5UlsHlQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Hey Jane",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "bVAlfN0HXEI",
+          "apple_music_url": "https://music.apple.com/us/album/hey-jane/1848185473?i=1848185482&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Hey+Jane",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=bVAlfN0HXEI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "I Killed You",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "gXi64WNOlRM",
+          "apple_music_url": "https://music.apple.com/us/album/i-killed-you/1848185473?i=1848185484&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I+Killed+You",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=gXi64WNOlRM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Judge Judy",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "1OtkQ_0-NIA",
+          "apple_music_url": "https://music.apple.com/us/album/judge-judy/1848185473?i=1848185487&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Judge+Judy",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=1OtkQ_0-NIA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Sticky",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "GloRilla",
+            "Sexyy Red",
+            "Lil Wayne"
+          ],
+          "theme": "Collaboration featuring GloRilla, Sexyy Red, Lil Wayne",
+          "youtube_id": "2jhXFaCVO90",
+          "apple_music_url": "https://music.apple.com/us/album/sticky-feat-glorilla-sexyy-red-lil-wayne/1848185473?i=1848185488&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sticky",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2jhXFaCVO90",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "Take Your Mask Off",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Daniel Caesar",
+            "Latoiya Williams"
+          ],
+          "theme": "Collaboration featuring Daniel Caesar, Latoiya Williams",
+          "youtube_id": "Xv9m_IreJpU",
+          "apple_music_url": "https://music.apple.com/us/album/take-your-mask-off-feat-daniel-caesar-latoiya-williams/1848185473?i=1848185489&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Take+Your+Mask+Off",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Xv9m_IreJpU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "Tomorrow",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "nRuJ-tu66BQ",
+          "apple_music_url": "https://music.apple.com/us/album/tomorrow/1848185473?i=1848185610&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Tomorrow",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=nRuJ-tu66BQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Thought I Was Dead",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "ScHoolboy Q",
+            "Santigold"
+          ],
+          "theme": "Collaboration featuring ScHoolboy Q, Santigold",
+          "youtube_id": "TbarTj0877U",
+          "apple_music_url": "https://music.apple.com/us/album/thought-i-was-dead-feat-schoolboy-q-santigold/1848185473?i=1848185622&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Thought+I+Was+Dead",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=TbarTj0877U",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "Mother",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "0Fbp3GKRXWc",
+          "apple_music_url": "https://music.apple.com/us/album/mother/1848185473?i=1848185627&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Mother",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=0Fbp3GKRXWc",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "Like Him",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Lola Young"
+          ],
+          "theme": "Collaboration featuring Lola Young",
+          "youtube_id": "Z0CQf3JDKAY",
+          "apple_music_url": "https://music.apple.com/us/album/like-him-feat-lola-young/1848185473?i=1848185628&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Like+Him",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Z0CQf3JDKAY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "Balloon",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Doechii"
+          ],
+          "theme": "Collaboration featuring Doechii",
+          "youtube_id": "HVulgXCFoAk",
+          "apple_music_url": "https://music.apple.com/us/album/balloon-feat-doechii/1848185473?i=1848185629&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Balloon",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=HVulgXCFoAk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "I Hope You Find Your Way Home",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "rPu91woOoZ8",
+          "apple_music_url": "https://music.apple.com/us/album/i-hope-you-find-your-way-home/1848185473?i=1848185632&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I+Hope+You+Find+Your+Way+Home",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=rPu91woOoZ8",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "tyler-the-creator:dont-tap-the-glass": {
+      "tracklist_source_url": "https://music.apple.com/us/album/1827715784",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_kcaRWdKExi6Op8xtUMc_3h42ADIssBfdA",
+      "apple_music_url": "https://music.apple.com/us/album/1827715784",
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Big Poe",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Sk8brd"
+          ],
+          "theme": "Collaboration featuring Sk8brd",
+          "youtube_id": "IGXS45Gp8jA",
+          "apple_music_url": "https://music.apple.com/us/album/big-poe-feat-sk8brd/1827715784?i=1827715790&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Big+Poe",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=IGXS45Gp8jA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Sugar on My Tongue",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "ljHdccyQbT4",
+          "apple_music_url": "https://music.apple.com/us/album/sugar-on-my-tongue/1827715784?i=1827715792&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sugar+on+My+Tongue",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=ljHdccyQbT4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Sucka Free",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "62QeYxNkKfo",
+          "apple_music_url": "https://music.apple.com/us/album/sucka-free/1827715784?i=1827715793&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Sucka+Free",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=62QeYxNkKfo",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "Mommanem",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "K3vKHMkWm1o",
+          "apple_music_url": "https://music.apple.com/us/album/mommanem/1827715784?i=1827715794&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Mommanem",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=K3vKHMkWm1o",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Stop Playing With Me",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "pmlqEKklWqs",
+          "apple_music_url": "https://music.apple.com/us/album/stop-playing-with-me/1827715784?i=1827715795&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Stop+Playing+With+Me",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=pmlqEKklWqs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Ring Ring Ring",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "U85bOgG7DWM",
+          "apple_music_url": "https://music.apple.com/us/album/ring-ring-ring/1827715784?i=1827715797&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Ring+Ring+Ring",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=U85bOgG7DWM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Don't Tap That Glass / Tweakin'",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "OKVi6jPdE8c",
+          "apple_music_url": "https://music.apple.com/us/album/dont-tap-that-glass-tweakin/1827715784?i=1827715798&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Don%27t+Tap+That+Glass+%2F+Tweakin%27",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=OKVi6jPdE8c",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Don't You Worry Baby",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Madison McFerrin"
+          ],
+          "theme": "Collaboration featuring Madison McFerrin",
+          "youtube_id": "vaqHcZwlVQM",
+          "apple_music_url": "https://music.apple.com/us/album/dont-you-worry-baby-feat-madison-mcferrin/1827715784?i=1827715799&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Don%27t+You+Worry+Baby",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=vaqHcZwlVQM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "I'll Take Care of You",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [
+            "Yebba"
+          ],
+          "theme": "Collaboration featuring Yebba",
+          "youtube_id": "O3GONS2o1sM",
+          "apple_music_url": "https://music.apple.com/us/album/ill-take-care-of-you-feat-yebba/1827715784?i=1827715800&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+I%27ll+Take+Care+of+You",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=O3GONS2o1sM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "Tell Me What It Is",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "youtube_id": "Gl6vO3Y5ae4",
+          "apple_music_url": "https://music.apple.com/us/album/tell-me-what-it-is/1827715784?i=1827715801&uo=4",
+          "genius_url": "https://genius.com/search?q=Tyler%2C+The+Creator+Tell+Me+What+It+Is",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Gl6vO3Y5ae4",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "odd-future:odd-future-tape": {
+      "tracklist_source_url": "https://musicbrainz.org/release/e8a86910-271c-467c-b918-2a7bb6bd908d",
+      "youtube_playlist_url": null,
+      "apple_music_url": null,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "The Tape (intro)",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+The+Tape+%28intro%29",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+The+Tape+%28intro%29+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 2,
+          "title": "Odd Toddlers",
+          "performers": [
+            "Tyler, The Creator",
+            "Casey Veggies"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Casey Veggies",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Odd+Toddlers",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Odd+Toddlers+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 3,
+          "title": "Laxin",
+          "performers": [
+            "Tyler, The Creator",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Laxin",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Laxin+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 4,
+          "title": "Back for Another One",
+          "performers": [
+            "Casey Veggies",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Casey Veggies, Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Back+for+Another+One",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Back+for+Another+One+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 5,
+          "title": "Bubble Gum",
+          "performers": [
+            "Hodgy Beats",
+            "Tyler, The Creator",
+            "Casey Veggies"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Tyler, The Creator, Casey Veggies",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Bubble+Gum",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Bubble+Gum+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 6,
+          "title": "Fucking Lame",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Fucking+Lame",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Fucking+Lame+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 7,
+          "title": "Pimp Slap",
+          "performers": [
+            "Tyler, The Creator",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Pimp+Slap",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Pimp+Slap+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 8,
+          "title": "Bitches Brewin’",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Bitches+Brewin%E2%80%99",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Bitches+Brewin%E2%80%99+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 9,
+          "title": "Money Talk",
+          "performers": [
+            "Casey Veggies",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Casey Veggies, Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Money+Talk",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Money+Talk+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 10,
+          "title": "Our Story",
+          "performers": [
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Our+Story",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Our+Story+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 11,
+          "title": "The Life Like",
+          "performers": [
+            "Casey Veggies"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Casey Veggies",
+          "genius_url": "https://genius.com/search?q=Odd+Future+The+Life+Like",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+The+Life+Like+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 12,
+          "title": "McDonalds",
+          "performers": [
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+McDonalds",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+McDonalds+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 13,
+          "title": "Slow It Down",
+          "performers": [
+            "Hodgy Beats",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Slow+It+Down",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Slow+It+Down+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 14,
+          "title": "Remember Me",
+          "performers": [
+            "Casey Veggies",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Casey Veggies, Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Remember+Me",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Remember+Me+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 15,
+          "title": "Malaya",
+          "performers": [
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Malaya",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Malaya+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 16,
+          "title": "Lisa",
+          "performers": [
+            "Tyler, The Creator",
+            "Jasper Dolphin"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Jasper Dolphin",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Lisa",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Lisa+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 17,
+          "title": "Fin",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Fin",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Fin+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 18,
+          "title": "Commercial",
+          "performers": [
+            "Tyler, The Creator",
+            "Casey Veggies"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Casey Veggies",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Commercial",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Commercial+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 19,
+          "title": "Dracula",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Dracula",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Dracula+official+audio",
+          "youtube_status": "search-only"
+        }
+      ]
+    },
+    "odd-future:radical": {
+      "tracklist_source_url": "https://musicbrainz.org/release/56b361ed-2bcc-4d30-93b5-f281844718eb",
+      "youtube_playlist_url": null,
+      "apple_music_url": null,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Intro",
+          "performers": [
+            "Odd Future"
+          ],
+          "featured_artists": [],
+          "theme": "Album track",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Intro",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Intro+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 2,
+          "title": "Splatter",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Splatter",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Splatter+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 3,
+          "title": "Turnt Down",
+          "performers": [
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Turnt+Down",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Turnt+Down+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 4,
+          "title": "Drop",
+          "performers": [
+            "Earl Sweatshirt"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Earl Sweatshirt",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Drop",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Drop+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 5,
+          "title": "Salute",
+          "performers": [
+            "Domo Genesis"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Salute",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Salute+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 6,
+          "title": "Everything Thats Yours",
+          "performers": [
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Mike G",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Everything+Thats+Yours",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Everything+Thats+Yours+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 7,
+          "title": "Blade By",
+          "performers": [
+            "Earl Sweatshirt"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Earl Sweatshirt",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Blade+By",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Blade+By+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 8,
+          "title": "Double Cheeseburger",
+          "performers": [
+            "Domo Genesis",
+            "Wolf Haley"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Wolf Haley",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Double+Cheeseburger",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Double+Cheeseburger+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 9,
+          "title": "Round and Round",
+          "performers": [
+            "Hodgy Beats",
+            "Jasper Dolphin",
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Jasper Dolphin, Mike G",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Round+and+Round",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Round+and+Round+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 10,
+          "title": "10 Ugly Girls",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+10+Ugly+Girls",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+10+Ugly+Girls+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 11,
+          "title": "Orange Juice",
+          "performers": [
+            "Earl Sweatshirt",
+            "Wolf Haley"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Earl Sweatshirt, Wolf Haley",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Orange+Juice",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Orange+Juice+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 12,
+          "title": "Cool",
+          "performers": [
+            "Earl Sweatshirt",
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Earl Sweatshirt, Mike G",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Cool",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Cool+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 13,
+          "title": "Oblivion",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Oblivion",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Oblivion+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 14,
+          "title": "Alright",
+          "performers": [
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Alright",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Alright+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 15,
+          "title": "Leather Head",
+          "performers": [
+            "Wolf Haley"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Wolf Haley",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Leather+Head",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Leather+Head+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 16,
+          "title": "Up",
+          "performers": [
+            "Tyler, The Creator",
+            "Domo Genesis",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Domo Genesis, Hodgy Beats",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Up",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Up+official+audio",
+          "youtube_status": "search-only"
+        },
+        {
+          "position": 17,
+          "title": "Swag Me Out",
+          "performers": [
+            "Odd Future",
+            "Jasper Dolphin"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Odd Future, Jasper Dolphin",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Swag+Me+Out",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/results?search_query=Odd+Future+Swag+Me+Out+official+audio",
+          "youtube_status": "search-only"
+        }
+      ]
+    },
+    "odd-future:12-odd-future-songs": {
+      "tracklist_source_url": "https://musicbrainz.org/release/da5820ab-f41c-422e-bd77-cd9a0450f2f1",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_nlBpQ3-BXelXA1Pqpxv_rsrx1SVa7YuKU",
+      "apple_music_url": null,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Bastard",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "youtube_id": "GJzjMKlVmsA",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Bastard",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=GJzjMKlVmsA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "67",
+          "performers": [
+            "MellowHype"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by MellowHype",
+          "youtube_id": "SJUJ8Bd_Jds",
+          "genius_url": "https://genius.com/search?q=Odd+Future+67",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=SJUJ8Bd_Jds",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "Forest Green",
+          "performers": [
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Mike G",
+          "youtube_id": "dIEoGClLGtU",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Forest+Green",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=dIEoGClLGtU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "Welcome Home Son",
+          "performers": [
+            "The Jet Age of Tomorrow",
+            "Tyler, The Creator",
+            "Casey Veggies"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by The Jet Age of Tomorrow, Tyler, The Creator, Casey Veggies",
+          "youtube_id": "tvlNV7_LZpU",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Welcome+Home+Son",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=tvlNV7_LZpU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "French",
+          "performers": [
+            "Tyler, The Creator",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Hodgy Beats",
+          "youtube_id": "p2R-N_5AN1U",
+          "genius_url": "https://genius.com/search?q=Odd+Future+French",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=p2R-N_5AN1U",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Rolling Papers",
+          "performers": [
+            "Domo Genesis",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Tyler, The Creator",
+          "youtube_id": "IkftvziPRP4",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Rolling+Papers",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=IkftvziPRP4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "King",
+          "performers": [
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Mike G",
+          "youtube_id": "AC86oN-iUls",
+          "genius_url": "https://genius.com/search?q=Odd+Future+King",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=AC86oN-iUls",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "Bankrolls",
+          "performers": [
+            "MellowHype"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by MellowHype",
+          "youtube_id": "pkItVqvfcmY",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Bankrolls",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=pkItVqvfcmY",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "But She's Not My Lover",
+          "performers": [
+            "The Jet Age of Tomorrow"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by The Jet Age of Tomorrow",
+          "youtube_id": "iaY-XnaBh-c",
+          "genius_url": "https://genius.com/search?q=Odd+Future+But+She%27s+Not+My+Lover",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=iaY-XnaBh-c",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "VCR",
+          "performers": [
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator",
+          "youtube_id": "SCuRWZysxvk",
+          "genius_url": "https://genius.com/search?q=Odd+Future+VCR",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=SCuRWZysxvk",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Steamroller",
+          "performers": [
+            "Domo Genesis",
+            "Hodgy Beats",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Hodgy Beats, Tyler, The Creator",
+          "youtube_id": "IDu3_PvS3NU",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Steamroller",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=IDu3_PvS3NU",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "Rok Rok",
+          "performers": [
+            "MellowHype"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by MellowHype",
+          "youtube_id": "aS4sNOwTsso",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Rok+Rok",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=aS4sNOwTsso",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "They Say",
+          "performers": [
+            "The Internet",
+            "Tay Walker"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by The Internet, Tay Walker",
+          "youtube_id": "S9Xg7GPzzwI",
+          "genius_url": "https://genius.com/search?q=Odd+Future+They+Say",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=S9Xg7GPzzwI",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    },
+    "odd-future:of-tape-vol-2": {
+      "tracklist_source_url": "https://musicbrainz.org/release/9b6bd2ac-c9ad-42d4-9506-0c95cbea785b",
+      "youtube_playlist_url": "https://music.youtube.com/playlist?list=OLAK5uy_mZGPFS_MBwBWRG-dN0HuAiVKYRplB-cHo",
+      "apple_music_url": null,
+      "tracks": [
+        {
+          "position": 1,
+          "title": "Hi.",
+          "performers": [
+            "L-Boy"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by L-Boy",
+          "youtube_id": "Gy7jyU5FQIQ",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Hi.",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Gy7jyU5FQIQ",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 2,
+          "title": "Bitches",
+          "performers": [
+            "Domo Genesis",
+            "Hodgy Beats"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Hodgy Beats",
+          "youtube_id": "rlEDm4ajxeM",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Bitches",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=rlEDm4ajxeM",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 3,
+          "title": "NY (Ned Flander)",
+          "performers": [
+            "Hodgy Beats",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Tyler, The Creator",
+          "youtube_id": "gdpKPSjQ37Y",
+          "genius_url": "https://genius.com/search?q=Odd+Future+NY+%28Ned+Flander%29",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=gdpKPSjQ37Y",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 4,
+          "title": "Ya Know",
+          "performers": [
+            "The Internet"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by The Internet",
+          "youtube_id": "wqB0fup00HE",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Ya+Know",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=wqB0fup00HE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 5,
+          "title": "Forest Green",
+          "performers": [
+            "Mike G"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Mike G",
+          "youtube_id": "7Bm7-XNZmnA",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Forest+Green",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=7Bm7-XNZmnA",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 6,
+          "title": "Lean",
+          "performers": [
+            "Hodgy Beats",
+            "Domo Genesis"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Domo Genesis",
+          "youtube_id": "qA60wsbQZ8Y",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Lean",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=qA60wsbQZ8Y",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 7,
+          "title": "Analog 2",
+          "performers": [
+            "Tyler, The Creator",
+            "Frank Ocean",
+            "Syd"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Frank Ocean, Syd",
+          "youtube_id": "mmVtCkBud-s",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Analog+2",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=mmVtCkBud-s",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 8,
+          "title": "50",
+          "performers": [
+            "MellowHype"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by MellowHype",
+          "youtube_id": "2PtRd_tnBBI",
+          "genius_url": "https://genius.com/search?q=Odd+Future+50",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=2PtRd_tnBBI",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 9,
+          "title": "Snow White",
+          "performers": [
+            "Hodgy Beats",
+            "Frank Ocean"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Frank Ocean",
+          "youtube_id": "gBPOD5RZYxs",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Snow+White",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=gBPOD5RZYxs",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 10,
+          "title": "Rella",
+          "performers": [
+            "Hodgy Beats",
+            "Domo Genesis",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Domo Genesis, Tyler, The Creator",
+          "youtube_id": "fN-xq7t6pKw",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Rella",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=fN-xq7t6pKw",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 11,
+          "title": "Real Bitch",
+          "performers": [
+            "MellowHype",
+            "Taco"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by MellowHype, Taco",
+          "youtube_id": "okE8WzR-7l4",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Real+Bitch",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=okE8WzR-7l4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 12,
+          "title": "P",
+          "performers": [
+            "Hodgy Beats",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Hodgy Beats, Tyler, The Creator",
+          "youtube_id": "51RUaomCkP4",
+          "genius_url": "https://genius.com/search?q=Odd+Future+P",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=51RUaomCkP4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 13,
+          "title": "White",
+          "performers": [
+            "Frank Ocean"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Frank Ocean",
+          "youtube_id": "qFrJwd5Xvr4",
+          "genius_url": "https://genius.com/search?q=Odd+Future+White",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=qFrJwd5Xvr4",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 14,
+          "title": "Hcapd",
+          "performers": [
+            "Domo Genesis",
+            "Hodgy Beats",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Hodgy Beats, Tyler, The Creator",
+          "youtube_id": "i6zrRfM6sEc",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Hcapd",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=i6zrRfM6sEc",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 15,
+          "title": "Sam (Is Dead)",
+          "performers": [
+            "Domo Genesis",
+            "Tyler, The Creator"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis, Tyler, The Creator",
+          "youtube_id": "i7qaLXEnrUE",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Sam+%28Is+Dead%29",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=i7qaLXEnrUE",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 16,
+          "title": "Doms",
+          "performers": [
+            "Domo Genesis"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Domo Genesis",
+          "youtube_id": "7kYqvqI3Tdg",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Doms",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=7kYqvqI3Tdg",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 17,
+          "title": "We Got Bitches",
+          "performers": [
+            "Tyler, The Creator",
+            "Taco",
+            "Jasper Dolphin"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Taco, Jasper Dolphin",
+          "youtube_id": "aIbtIVaUX2I",
+          "genius_url": "https://genius.com/search?q=Odd+Future+We+Got+Bitches",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=aIbtIVaUX2I",
+          "youtube_status": "official-artist-channel"
+        },
+        {
+          "position": 18,
+          "title": "Oldie",
+          "performers": [
+            "Tyler, The Creator",
+            "Hodgy Beats",
+            "Left Brain",
+            "Mike G",
+            "Domo Genesis",
+            "Frank Ocean",
+            "Jasper Dolphin",
+            "Earl Sweatshirt"
+          ],
+          "featured_artists": [],
+          "theme": "Performed by Tyler, The Creator, Hodgy Beats, Left Brain, Mike G, Domo Genesis, Frank Ocean, Jasper Dolphin, Earl Sweatshirt",
+          "youtube_id": "Oy2W0-xOR9Y",
+          "genius_url": "https://genius.com/search?q=Odd+Future+Oldie",
+          "lyrics_status": "external-licensed-reference",
+          "youtube_url": "https://www.youtube.com/watch?v=Oy2W0-xOR9Y",
+          "youtube_status": "official-artist-channel"
+        }
+      ]
+    }
+  }
+}

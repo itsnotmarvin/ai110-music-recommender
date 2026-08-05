@@ -1,0 +1,178 @@
+{
+  "artist_id": "tyler-the-creator",
+  "title": "Follow Tyler, the Creator’s story",
+  "dek": "A chronological path through nine releases. Each chapter explains what came before, what changed, and which three songs make that change easiest to hear.",
+  "releases": [
+    {
+      "album_id": "bastard",
+      "chapter_title": "Build the world yourself",
+      "essential_tracks": [
+        {
+          "title": "Bastard",
+          "focus": "Hear how the fictional therapy frame introduces the project’s narrative language."
+        },
+        {
+          "title": "Seven",
+          "focus": "Listen for the ambition and provocation driving Tyler’s earliest self-produced work."
+        },
+        {
+          "title": "Odd Toddlers",
+          "focus": "The technique and collective identity place the solo project inside Odd Future’s shared world."
+        }
+      ],
+      "transition": "The self-released fictional frame moves onto a larger stage as Odd Future’s visibility rapidly expands."
+    },
+    {
+      "album_id": "goblin",
+      "chapter_title": "The private world meets public attention",
+      "essential_tracks": [
+        {
+          "title": "Goblin",
+          "focus": "The opening returns to the character frame, now under the pressure of outside scrutiny."
+        },
+        {
+          "title": "Yonkers",
+          "focus": "This is the clearest point to hear provocation become breakthrough-scale visibility."
+        },
+        {
+          "title": "She",
+          "focus": "Frank Ocean’s appearance shows the collective’s voices beginning to intersect on a larger stage."
+        }
+      ],
+      "transition": "With visibility established, Wolf makes room for more melody, arrangement, and reflection without abandoning the fictional setting."
+    },
+    {
+      "album_id": "wolf",
+      "chapter_title": "Melody and reflection enter the frame",
+      "essential_tracks": [
+        {
+          "title": "Jamba",
+          "focus": "Start with the confident arrival, then notice how much more expansive the production feels."
+        },
+        {
+          "title": "Answer",
+          "focus": "The writing lets family and unanswered connection sit closer to the surface."
+        },
+        {
+          "title": "IFHY",
+          "focus": "Contradictory attachment becomes both a character study and an arrangement showcase."
+        }
+      ],
+      "transition": "That expanding production palette pushes toward Cherry Bomb, where dense arrangement and abrasion become the point."
+    },
+    {
+      "album_id": "cherry-bomb",
+      "chapter_title": "Push the production until it distorts",
+      "essential_tracks": [
+        {
+          "title": "DEATHCAMP",
+          "focus": "The forceful entrance announces a brighter, louder, more abrasive production language."
+        },
+        {
+          "title": "FIND YOUR WINGS",
+          "focus": "The softer arrangement reveals possibility and mentorship inside the album’s extremes."
+        },
+        {
+          "title": "SMUCKERS",
+          "focus": "Ambition, technique, and major collaborators meet in one of the chapter’s clearest rap showcases."
+        }
+      ],
+      "transition": "Cherry Bomb’s density becomes the contrast point for Flower Boy’s more concise, reflective writing and arrangements."
+    },
+    {
+      "album_id": "flower-boy",
+      "chapter_title": "Turn inward without shrinking the world",
+      "essential_tracks": [
+        {
+          "title": "Where This Flower Blooms",
+          "focus": "Growth and self-definition introduce the album’s reflective center."
+        },
+        {
+          "title": "Garden Shed",
+          "focus": "Privacy and disclosure make the album’s greater openness especially clear."
+        },
+        {
+          "title": "911 / Mr. Lonely",
+          "focus": "Success and loneliness occupy the same song, capturing the chapter’s emotional contrast."
+        }
+      ],
+      "transition": "Flower Boy’s reflection becomes an even tighter, character-driven emotional sequence on IGOR."
+    },
+    {
+      "album_id": "igor",
+      "chapter_title": "Let one emotional sequence control the album",
+      "essential_tracks": [
+        {
+          "title": "EARFQUAKE",
+          "focus": "Fear of loss turns the album’s opening movement into a direct plea."
+        },
+        {
+          "title": "A BOY IS A GUN",
+          "focus": "Attraction and danger converge as the relationship triangle tightens."
+        },
+        {
+          "title": "GONE, GONE / THANK YOU",
+          "focus": "Grief and gratitude share the same extended turn toward attempted acceptance."
+        }
+      ],
+      "transition": "The continuous relationship narrative gives way to DJ Drama’s mixtape-hosted travel world while Tyler keeps the careful sequencing."
+    },
+    {
+      "album_id": "call-me-if-you-get-lost",
+      "chapter_title": "Travel outward while conflict stays private",
+      "essential_tracks": [
+        {
+          "title": "CORSO",
+          "focus": "The confident arrival establishes the hosted mixtape language and public-facing scale."
+        },
+        {
+          "title": "WUSYANAME",
+          "focus": "Invitation and attraction bring warmth into the travel-stamped world."
+        },
+        {
+          "title": "WILSHIRE",
+          "focus": "The extended relationship account exposes the private conflict beneath the album’s luxury and movement."
+        }
+      ],
+      "transition": "Public confidence and private conflict move toward questions of adulthood, responsibility, and privacy on CHROMAKOPIA."
+    },
+    {
+      "album_id": "chromakopia",
+      "chapter_title": "Use the mask to talk about visibility",
+      "essential_tracks": [
+        {
+          "title": "St. Chroma",
+          "focus": "The visual persona supplies direction while introducing a more guarded album world."
+        },
+        {
+          "title": "Noid",
+          "focus": "Visibility and privacy become the chapter’s central tension."
+        },
+        {
+          "title": "Like Him",
+          "focus": "Family and resemblance make adult responsibility feel personal rather than abstract."
+        }
+      ],
+      "transition": "Guarded reflection shifts into a concise, movement-focused record only nine months later."
+    },
+    {
+      "album_id": "dont-tap-the-glass",
+      "chapter_title": "End the current path in motion",
+      "essential_tracks": [
+        {
+          "title": "Big Poe",
+          "focus": "The entrance immediately redirects the story toward physical movement."
+        },
+        {
+          "title": "Sugar on My Tongue",
+          "focus": "Desire and dance carry the concise project’s lighter, immediate energy."
+        },
+        {
+          "title": "Don't Tap That Glass / Tweakin'",
+          "focus": "Release and performance close the current reviewed discography in motion."
+        }
+      ],
+      "transition": "The reviewed journey currently ends here. You can now explore every track, source, collaborator, and connection without losing the chronology."
+    }
+  ]
+}

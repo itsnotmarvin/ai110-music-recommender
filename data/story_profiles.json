@@ -1,0 +1,1528 @@
+{
+  "story_version": "1.0.0",
+  "reviewed_at": "2026-08-04",
+  "sources": [
+    {
+      "id": "fader-odd-future-cover-2010",
+      "title": "Odd Future Are the Teen Wolves of California",
+      "publisher": "The FADER",
+      "published_at": "2010-12-15",
+      "source_type": "reported-profile",
+      "url": "https://www.thefader.com/2010/12/15/lil-b-young-l-and-odd-future-are-the-teen-wolves-of-california-eating-raps-guts"
+    },
+    {
+      "id": "fader-odd-future-deal-2011",
+      "title": "Odd Future Sign a Group Record Deal",
+      "publisher": "The FADER",
+      "published_at": "2011-04-26",
+      "source_type": "reported-news",
+      "url": "https://www.thefader.com/2011/04/26/odd-future-sign-a-group-record-deal-music-business-now-more-fun-and-different"
+    },
+    {
+      "id": "grammy-tyler-arc-2024",
+      "title": "Five Takeaways From Tyler, The Creator's CHROMAKOPIA",
+      "publisher": "Recording Academy",
+      "published_at": "2024-10-28",
+      "source_type": "reported-analysis",
+      "url": "https://www.grammy.com/news/tyler-the-creator-chromakopia-new-album-review-takeaways/"
+    },
+    {
+      "id": "grammy-tyler-profile",
+      "title": "Tyler, The Creator — Artist and GRAMMY Profile",
+      "publisher": "Recording Academy",
+      "published_at": "2026-08-04",
+      "source_type": "award-institution",
+      "url": "https://www.grammy.com/artists/tyler-creator/6629/"
+    },
+    {
+      "id": "apple-internet-profile",
+      "title": "The Internet — Artist Profile",
+      "publisher": "Apple Music",
+      "published_at": "2026-08-04",
+      "source_type": "streaming-catalog-editorial",
+      "url": "https://music.apple.com/us/artist/the-internet/158039925"
+    },
+    {
+      "id": "nme-internet-2018",
+      "title": "The Internet: the big read interview",
+      "publisher": "NME",
+      "published_at": "2018-07-20",
+      "source_type": "artist-interview",
+      "url": "https://www.nme.com/features/music-interviews/the-internet-big-read-interview-2350917"
+    },
+    {
+      "id": "fader-internet-return-2026",
+      "title": "The Internet say their new album will arrive in 2027",
+      "publisher": "The FADER",
+      "published_at": "2026-07-16",
+      "source_type": "artist-interview",
+      "url": "https://www.thefader.com/2026/07/16/the-internet-new-album-2027"
+    },
+    {
+      "id": "nme-syd-2026",
+      "title": "Syd on Beard and The Internet's return",
+      "publisher": "NME",
+      "published_at": "2026-07",
+      "source_type": "artist-interview",
+      "url": "https://www.nme.com/features/music-interviews/syd-beard-the-internet-beyonce-interview-3958073"
+    },
+    {
+      "id": "warner-syd-beard-2026",
+      "title": "Syd releases Beard",
+      "publisher": "Warner Records",
+      "published_at": "2026-06",
+      "source_type": "official-press-release",
+      "url": "https://press.warnerrecords.com/sites/g/files/g2000014901/files/2026-06/syd_x34yefoh.pdf"
+    },
+    {
+      "id": "grammy-frank-profile",
+      "title": "Frank Ocean — Artist and GRAMMY Profile",
+      "publisher": "Recording Academy",
+      "published_at": "2026-08-04",
+      "source_type": "award-institution",
+      "url": "https://www.grammy.com/artists/frank-ocean/15669/"
+    },
+    {
+      "id": "apple-frank-profile",
+      "title": "Frank Ocean — Artist Profile",
+      "publisher": "Apple Music",
+      "published_at": "2026-08-04",
+      "source_type": "streaming-catalog-editorial",
+      "url": "https://music.apple.com/gb/artist/frank-ocean/442122051"
+    },
+    {
+      "id": "time-frank-endless-2016",
+      "title": "Frank Ocean Releases Visual Album Endless",
+      "publisher": "TIME",
+      "published_at": "2016-08-19",
+      "source_type": "reported-news",
+      "url": "https://time.com/4460139/frank-ocean-visual-album-endless/"
+    },
+    {
+      "id": "time-frank-blonde-2016",
+      "title": "Frank Ocean Releases New Album Blonde",
+      "publisher": "TIME",
+      "published_at": "2016-08-20",
+      "source_type": "reported-news",
+      "url": "https://time.com/4461555/frank-ocean-new-album-blonde-2/"
+    },
+    {
+      "id": "apple-earl-profile",
+      "title": "Earl Sweatshirt — Artist Profile",
+      "publisher": "Apple Music",
+      "published_at": "2026-08-04",
+      "source_type": "streaming-catalog-editorial",
+      "url": "https://music.apple.com/us/artist/earl-sweatshirt/445693504"
+    },
+    {
+      "id": "guardian-earl-2023",
+      "title": "Earl Sweatshirt on Voir Dire and growing beyond Odd Future",
+      "publisher": "The Guardian",
+      "published_at": "2023-10-06",
+      "source_type": "artist-interview",
+      "url": "https://www.theguardian.com/music/2023/oct/06/earl-sweatshirt-voir-dire-interview"
+    },
+    {
+      "id": "xxl-domo-2016",
+      "title": "Domo Genesis explains his debut album",
+      "publisher": "XXL",
+      "published_at": "2016",
+      "source_type": "artist-interview",
+      "url": "https://www.xxlmag.com/domo-genesis-album-interview/"
+    },
+    {
+      "id": "pitchfork-domo-2022",
+      "title": "Domo Genesis: Intros, Outros & Interludes",
+      "publisher": "Pitchfork",
+      "published_at": "2022",
+      "source_type": "criticism",
+      "url": "https://pitchfork.com/reviews/albums/domo-genesis-intros-outros-and-interludes/"
+    },
+    {
+      "id": "revolt-mike-g-2019",
+      "title": "Mike G on Tyler, Odd Future memories, and growing up in Los Angeles",
+      "publisher": "REVOLT",
+      "published_at": "2019-10-23",
+      "source_type": "artist-interview",
+      "url": "https://www.revolt.tv/article/2019-10-23/84707/mike-g-talks-tyler-the-creator-odd-future-memories-growing-up-in-l-a-and-more"
+    },
+    {
+      "id": "fader-matt-martians-2019",
+      "title": "Matt Martians on The Jet Age of Tomorrow, The Internet, and The Last Party",
+      "publisher": "The FADER",
+      "published_at": "2019-06-06",
+      "source_type": "artist-interview",
+      "url": "https://www.thefader.com/2019/06/06/matt-martians-jet-age-the-internet-the-last-party-interview"
+    },
+    {
+      "id": "id-vritra-2020",
+      "title": "10 things to know about Vritra",
+      "publisher": "i-D",
+      "published_at": "2020",
+      "source_type": "artist-interview",
+      "url": "https://i-d.co/article/vritra-music-interview-jet-age-of-tomorrow-odd-future-sonar-album/"
+    },
+    {
+      "id": "earmilk-brandun-deshay-2011",
+      "title": "A chat with brandUn DeShay",
+      "publisher": "EARMILK",
+      "published_at": "2011-11-12",
+      "source_type": "artist-interview",
+      "url": "https://earmilk.com/2011/11/12/a-chat-with-brandun-deshay/"
+    },
+    {
+      "id": "independent-casey-veggies-2015",
+      "title": "Interview with Casey Veggies",
+      "publisher": "Santa Barbara Independent",
+      "published_at": "2015-04-16",
+      "source_type": "artist-interview",
+      "url": "https://www.independent.com/2015/04/16/interview-casey-veggies/"
+    },
+    {
+      "id": "fader-mellowhigh-2013",
+      "title": "Odd World's MellowHigh",
+      "publisher": "The FADER",
+      "published_at": "2013-08-21",
+      "source_type": "reported-profile",
+      "url": "https://www.thefader.com/2013/08/21/watch-the-second-episode-of-odd-futures-odd-world-mellowhigh"
+    },
+    {
+      "id": "fader-mellowhype-2017",
+      "title": "Hodgy and Left Brain reunite as MellowHype",
+      "publisher": "The FADER",
+      "published_at": "2017-11-30",
+      "source_type": "reported-news",
+      "url": "https://www.thefader.com/2017/11/30/hodgy-left-brain-reunited-mellowhype-hear-new-song-tisk"
+    },
+    {
+      "id": "stockx-left-brain-2018",
+      "title": "Mind Gone: An Interview with Left Brain",
+      "publisher": "StockX News",
+      "published_at": "2018",
+      "source_type": "artist-interview",
+      "url": "https://stockx.com/news/mind-gone-an-interview-with-left-brain/"
+    },
+    {
+      "id": "fader-nakel-2018",
+      "title": "Na-Kel Smith and Jonah Hill on mid90s",
+      "publisher": "The FADER",
+      "published_at": "2018-10-26",
+      "source_type": "artist-interview",
+      "url": "https://www.thefader.com/2018/10/26/na-kel-smith-jonah-hill-interview-mid90s/"
+    },
+    {
+      "id": "gq-nakel-2018",
+      "title": "Na-Kel Smith on skating, acting, and music",
+      "publisher": "GQ",
+      "published_at": "2018",
+      "source_type": "artist-profile",
+      "url": "https://www.gq.com/story/na-kel-smith-mid-90s-brooks-brothers-adidas-collab"
+    },
+    {
+      "id": "new-yorker-jasper-2024",
+      "title": "Jasper Dolphin Lets Fly at Camp Flog Gnaw",
+      "publisher": "The New Yorker",
+      "published_at": "2024-12-02",
+      "source_type": "reported-profile",
+      "url": "https://www.newyorker.com/magazine/2024/12/02/jasper-dolphin-lets-fly-at-camp-flog-gnaw"
+    },
+    {
+      "id": "fast-company-loiter-squad-2012",
+      "title": "Meet the Jackasses Behind Odd Future's Loiter Squad",
+      "publisher": "Fast Company",
+      "published_at": "2012",
+      "source_type": "reported-profile",
+      "url": "https://www.fastcompany.com/1680302/meet-the-jackasses-behind-odd-futures-tv-show-loiter-squad"
+    },
+    {
+      "id": "interview-lionel-travis-2023",
+      "title": "Lionel Boyce and Travis Bennett on Their Evolution of Taste",
+      "publisher": "Interview Magazine",
+      "published_at": "2023",
+      "source_type": "artist-interview",
+      "url": "https://www.interviewmagazine.com/film/lionel-boyce-and-travis-bennett-on-their-evolution-of-taste"
+    },
+    {
+      "id": "gq-travis-bennett-2022",
+      "title": "Dave breakout Travis Bennett is so much more than Elz",
+      "publisher": "GQ",
+      "published_at": "2022",
+      "source_type": "artist-profile",
+      "url": "https://www.gq.com/story/travis-bennett-dave-fx-yung-taco-profile"
+    },
+    {
+      "id": "oddfuture-bandcamp-isp",
+      "title": "I Smell Panties",
+      "publisher": "Odd Future / Bandcamp",
+      "published_at": "2008-06-28",
+      "source_type": "official-release-page",
+      "url": "https://oddfuture.bandcamp.com/"
+    }
+  ],
+  "profiles": [
+    {
+      "universe_id": "tyler-the-creator",
+      "summary": "A start-to-present account of Tyler's path from Odd Future's self-published world through a sequence of increasingly distinct album eras.",
+      "tagline": "From teenage collective architect to album-world builder.",
+      "coverage": "Reviewed story · 2007–2025",
+      "chapters": [
+        {
+          "id": "collective-blueprint",
+          "era": "2007–2010",
+          "title": "The collective is the first canvas",
+          "dek": "Tyler helped assemble Odd Future around music, artwork, video, clothing, and a direct online relationship with listeners. Bastard made his own voice the entrance to that larger homemade world.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "fader-odd-future-cover-2010"],
+          "song_links": [
+            {"track_title": "Bastard", "label": "Begin with Bastard"},
+            {"universe_id": "odd-future", "track_title": "Odd Toddlers", "label": "Hear the collective roots"}
+          ]
+        },
+        {
+          "id": "goblin-to-cherry-bomb",
+          "era": "2011–2015",
+          "title": "Provocation opens into arrangement",
+          "dek": "Goblin carried the breakout intensity of the early period, while Wolf and Cherry Bomb widened Tyler's palette through character writing, live instrumentation, dense harmony, and more ambitious sequencing.",
+          "claim_type": "reported",
+          "source_ids": ["apple-music-tyler-profile-2026", "pitchfork-odd-future-2011"],
+          "song_links": [
+            {"track_title": "Yonkers", "label": "Open Yonkers"},
+            {"track_title": "FIND YOUR WINGS", "label": "Hear the widening palette"}
+          ]
+        },
+        {
+          "id": "flower-boy-focus",
+          "era": "2017",
+          "title": "Flower Boy brings the interior forward",
+          "dek": "Contemporary critics described Flower Boy as a more concise and introspective turn. That is a critical reading of the record—not a diagnosis of Tyler's private life.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["pitchfork-flower-boy-review-2017", "new-yorker-flower-blooms-2017"],
+          "song_links": [
+            {"track_title": "Where This Flower Blooms", "label": "Read and hear the turning point"},
+            {"track_title": "Boredom", "label": "Open Boredom"}
+          ]
+        },
+        {
+          "id": "igor-album-world",
+          "era": "2019",
+          "title": "IGOR turns an emotional arc into a full album world",
+          "dek": "IGOR joined writing, production, visual identity, and sequencing into one tightly controlled narrative project; the Recording Academy later recognized it with the rap-album Grammy.",
+          "claim_type": "documented-fact",
+          "source_ids": ["grammy-tyler-profile", "grammy-tyler-arc-2024"],
+          "song_links": [
+            {"track_title": "EARFQUAKE", "label": "Enter IGOR"}
+          ]
+        },
+        {
+          "id": "call-me-travelog",
+          "era": "2021–2023",
+          "title": "CALL ME IF YOU GET LOST makes motion part of the story",
+          "dek": "The album used the Tyler Baudelaire persona, travel imagery, and mixtape narration to stage confidence and complication; The Estate Sale later expanded that chapter with songs from the same sessions.",
+          "claim_type": "reported",
+          "source_ids": ["grammy-tyler-profile", "apple-music-tyler-profile-2026"],
+          "song_links": [
+            {"track_title": "CORSO", "label": "Open the travelogue"},
+            {"track_title": "SORRY NOT SORRY", "label": "Hear the chapter's coda"}
+          ]
+        },
+        {
+          "id": "chromakopia-control",
+          "era": "2024",
+          "title": "CHROMAKOPIA tests control against responsibility",
+          "dek": "The Recording Academy's album analysis places CHROMAKOPIA after Tyler's earlier breakthroughs and emphasizes its recurring questions about self-control, adulthood, family, and the stories people construct around him.",
+          "claim_type": "reported",
+          "source_ids": ["grammy-tyler-arc-2024"],
+          "song_links": [
+            {"track_title": "St. Chroma", "label": "Enter CHROMAKOPIA"}
+          ]
+        },
+        {
+          "id": "dont-tap-the-glass",
+          "era": "2025–present",
+          "title": "DON'T TAP THE GLASS ends the current album line in motion",
+          "dek": "The current reviewed catalog closes with the compact 2025 album DON'T TAP THE GLASS. Its release extends the pattern of treating each album as a distinct musical and visual environment rather than a sequel to the last one.",
+          "claim_type": "documented-fact",
+          "source_ids": ["apple-music-tyler-profile-2026", "grammy-tyler-2026"],
+          "song_links": [
+            {"track_title": "Sugar on My Tongue", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "odd-future",
+      "summary": "The complete local spine of Odd Future: friends publishing their own world, a sudden public breakthrough, and a network of individual careers and subgroups.",
+      "tagline": "One collective, many finished and continuing paths.",
+      "coverage": "Reviewed collective story · 2007–present legacy",
+      "chapters": [
+        {
+          "id": "friends-build-a-world",
+          "era": "2007–2009",
+          "title": "Friends build the platform they need",
+          "dek": "Odd Future began as a Los Angeles network of teenage rappers, producers, skaters, photographers, and friends. Early tapes established a shared banner without requiring every member to sound alike.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "fader-odd-future-cover-2010"],
+          "song_links": [
+            {"track_title": "Odd Toddlers", "label": "Start with the first tape"}
+          ]
+        },
+        {
+          "id": "free-download-era",
+          "era": "2010",
+          "title": "Free releases make the site a destination",
+          "dek": "Members posted mixtapes, videos, images, and everyday footage directly to the internet. Radical captures the collective's competitive, crowded energy before the wider industry arrived.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "fader-odd-future-cover-2010"],
+          "song_links": [
+            {"track_title": "Orange Juice", "label": "Hear the mixtape era"}
+          ]
+        },
+        {
+          "id": "breakthrough-with-control",
+          "era": "2011",
+          "title": "Visibility arrives without surrendering the umbrella",
+          "dek": "Television appearances, volatile live shows, and press attention accelerated the group's rise. Its 2011 label arrangement was reported as preserving an Odd Future imprint and unusual creative control.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-2011", "fader-odd-future-deal-2011"],
+          "song_links": [
+            {"track_title": "Forest Green", "label": "Open a 2011 snapshot"}
+          ]
+        },
+        {
+          "id": "oldie-ensemble",
+          "era": "2012",
+          "title": "Oldie becomes the ensemble portrait",
+          "dek": "The OF Tape Vol. 2 gathered multiple voices under one release. Oldie works as the clearest musical doorway into the roster because its long relay makes difference inside the group audible.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["pitchfork-odd-future-history-2018", "musicbrainz-of-tape-vol-2"],
+          "song_links": [
+            {"track_title": "Oldie", "label": "Watch the ensemble handoff"}
+          ]
+        },
+        {
+          "id": "branches-not-disappearance",
+          "era": "2013–present legacy",
+          "title": "The group recedes; the network remains visible",
+          "dek": "Odd Future stopped operating like a conventional active rap group, while Tyler, Frank, Earl, Syd, The Internet, Domo, Mike G, the production teams, and the screen performers continued along distinct paths. The archive treats those branches as the ending, not as evidence that every relationship stayed the same.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"track_title": "Oldie", "label": "Return to the shared portrait"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "frank-ocean",
+      "summary": "From songwriter and Odd Future member to the authored album worlds of channel ORANGE, Endless, and Blonde.",
+      "tagline": "A quiet branch whose albums changed the scale of the whole map.",
+      "coverage": "Reviewed story · 2009–2016 album endpoint",
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Odd Future peer and collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "songwriter-to-nostalgia",
+          "era": "2009–2011",
+          "title": "A songwriter steps forward under his own name",
+          "dek": "After writing for other performers, Frank Ocean joined Odd Future's wider circle and released nostalgia,ULTRA. The mixtape made his narrative writing and unusual source material the center of attention.",
+          "claim_type": "reported",
+          "source_ids": ["apple-frank-profile", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"track_title": "Novacane", "label": "Begin with Novacane"}
+          ]
+        },
+        {
+          "id": "channel-orange",
+          "era": "2012",
+          "title": "channel ORANGE expands the frame",
+          "dek": "channel ORANGE turned linked character studies, social detail, and warm, flexible production into a major-label album. The Recording Academy recognized it with the Grammy for urban contemporary album.",
+          "claim_type": "documented-fact",
+          "source_ids": ["grammy-frank-profile", "apple-frank-profile"],
+          "song_links": [
+            {"track_title": "Thinkin Bout You", "label": "Open channel ORANGE"}
+          ]
+        },
+        {
+          "id": "endless-and-blonde",
+          "era": "2016",
+          "title": "Two releases separate process from final statement",
+          "dek": "The visual album Endless arrived first, followed one day later by Blonde. Together they marked a new independent phase and a looser, more fragmented way of arranging memory, voice, and time.",
+          "claim_type": "reported",
+          "source_ids": ["time-frank-endless-2016", "time-frank-blonde-2016"],
+          "song_links": [
+            {"track_title": "Wither", "label": "Enter Endless"},
+            {"track_title": "Nikes", "label": "Enter Blonde"}
+          ]
+        },
+        {
+          "id": "current-album-endpoint",
+          "era": "2016–present catalog",
+          "title": "Blonde remains the current full-album endpoint",
+          "dek": "This archive does not turn gaps between albums into a private-life story. It ends Frank Ocean's album line at Blonde while preserving later work as a subject for future sourced updates.",
+          "claim_type": "documented-fact",
+          "source_ids": ["apple-frank-profile", "musicbrainz-catalog-frank-ocean"],
+          "song_links": [
+            {"track_title": "Nikes", "label": "Return to the current album endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "syd",
+      "summary": "Syd's path from teenage engineer and Odd Future DJ to The Internet's lead voice, solo artist, and the 2026 album Beard.",
+      "tagline": "The engineer behind the room becomes the voice at its center.",
+      "coverage": "Reviewed story · early career–2026",
+      "chapters": [
+        {
+          "id": "guesthouse-studio",
+          "era": "Teen years–2010",
+          "title": "The guesthouse studio becomes infrastructure",
+          "dek": "Syd said she built a studio in her parents' guesthouse as a teenager and initially wanted to produce and sing hooks. That room became part of Odd Future's practical recording environment.",
+          "claim_type": "artist-stated",
+          "source_ids": ["time-internet-interview-2015"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Hear the shared era"}
+          ]
+        },
+        {
+          "id": "forming-the-internet",
+          "era": "2011–2013",
+          "title": "A separate band grows from the same network",
+          "dek": "Syd and Matt Martians formed The Internet in 2011. Purple Naked Ladies and Feel Good moved toward a band language distinct from Odd Future's rap releases.",
+          "claim_type": "reported",
+          "source_ids": ["apple-internet-profile", "time-internet-interview-2015"],
+          "song_links": [
+            {"universe_id": "the-internet", "track_title": "Violet Nude Women", "label": "Open the first Internet album"},
+            {"universe_id": "the-internet", "track_title": "Dontcha", "label": "Hear the band taking shape"}
+          ]
+        },
+        {
+          "id": "ego-death",
+          "era": "2015",
+          "title": "Ego Death makes the band visible on its own terms",
+          "dek": "By Ego Death, The Internet's fuller lineup and live-band chemistry had become the central story. Syd's restrained vocal presence anchored songs built from space, rhythm, and ensemble interplay.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["time-internet-interview-2015", "apple-internet-profile"],
+          "song_links": [
+            {"universe_id": "the-internet", "track_title": "Special Affair", "label": "Enter Ego Death"}
+          ]
+        },
+        {
+          "id": "solo-voice",
+          "era": "2017–2022",
+          "title": "Solo records bring the voice closer",
+          "dek": "Fin established Syd's solo catalog beside the band rather than erasing it. Broken Hearts Club continued that line with a more intimate, relationship-centered album frame.",
+          "claim_type": "reported",
+          "source_ids": ["musicbrainz-catalog-syd", "nme-syd-2026"],
+          "song_links": [
+            {"track_title": "Body", "label": "Enter Fin"},
+            {"track_title": "Fast Car", "label": "Open Broken Hearts Club"}
+          ]
+        },
+        {
+          "id": "beard-and-return",
+          "era": "2026–present",
+          "title": "Beard arrives as The Internet reconvenes",
+          "dek": "Syd released her third solo album Beard in 2026 and publicly discussed returning to work with The Internet. The two paths now continue alongside each other.",
+          "claim_type": "documented-fact",
+          "source_ids": ["warner-syd-beard-2026", "nme-syd-2026"],
+          "song_links": [
+            {"track_title": "Walls", "label": "Hear Beard's opening"},
+            {"universe_id": "the-internet", "track_title": "Come Together", "label": "Reconnect with the band"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "the-internet",
+      "summary": "The band's full released arc—from Syd and Matt Martians' home-studio partnership through Ego Death, Hive Mind, solo branches, and the announced next chapter.",
+      "tagline": "A side project becomes a durable band, then learns how to reunite.",
+      "coverage": "Reviewed band story · 2011–2027 announced chapter",
+      "related": [
+        {"universe_id": "matt-martians", "relationship": "Co-founder, producer, and keyboardist"}
+      ],
+      "chapters": [
+        {
+          "id": "living-room-origin",
+          "era": "2011",
+          "title": "A living room becomes the first band room",
+          "dek": "Syd and Matt Martians said they met online, became roommates, and worked in a living-room studio. Purple Naked Ladies records the moment their collaboration became The Internet.",
+          "claim_type": "artist-stated",
+          "source_ids": ["time-internet-interview-2015", "apple-internet-profile"],
+          "song_links": [
+            {"track_title": "Violet Nude Women", "label": "Start at Purple Naked Ladies"}
+          ]
+        },
+        {
+          "id": "becoming-a-band",
+          "era": "2013",
+          "title": "Feel Good widens the lineup and the sound",
+          "dek": "Feel Good moved the project toward richer live instrumentation and the ensemble format that would define its next phase.",
+          "claim_type": "reported",
+          "source_ids": ["apple-internet-profile", "nme-internet-2018"],
+          "song_links": [
+            {"track_title": "Dontcha", "label": "Hear the band taking shape"}
+          ]
+        },
+        {
+          "id": "ego-death-breakthrough",
+          "era": "2015",
+          "title": "Ego Death turns chemistry into a breakthrough",
+          "dek": "Ego Death sharpened the exchange among Syd, Matt Martians, Patrick Paige II, Christopher Smith, and then-new guitarist Steve Lacy. Its Grammy nomination gave the band an identity legible beyond the Odd Future connection.",
+          "claim_type": "reported",
+          "source_ids": ["time-internet-interview-2015", "apple-internet-profile"],
+          "song_links": [
+            {"track_title": "Special Affair", "label": "Enter Ego Death"},
+            {"track_title": "Girl", "label": "Hear the ensemble"}
+          ]
+        },
+        {
+          "id": "solo-branches-to-hive-mind",
+          "era": "2017–2018",
+          "title": "Solo branches feed back into Hive Mind",
+          "dek": "The members released individual projects, then returned with new experience. In interviews around Hive Mind, they described those solo paths as strengthening rather than ending the band.",
+          "claim_type": "artist-stated",
+          "source_ids": ["nme-internet-2018"],
+          "song_links": [
+            {"track_title": "Come Together", "label": "Open the reunion statement"},
+            {"track_title": "Come Over", "label": "Enter Hive Mind"}
+          ]
+        },
+        {
+          "id": "next-album-in-progress",
+          "era": "2019–2027 announced",
+          "title": "A long pause becomes an announced next chapter",
+          "dek": "In July 2026, the band said it had worked on and off for years and was aiming to release a new album in early 2027. Because that record is not released, this story ends with the announcement—not a prediction about its sound.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-internet-return-2026", "nme-syd-2026"],
+          "song_links": [
+            {"track_title": "Come Together", "label": "Revisit the last released opening"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "brandun-deshay",
+      "summary": "An early Odd Future contributor whose producer-rapper identity continued through an independent catalog of his own.",
+      "tagline": "An early branch with a production language beyond the collective.",
+      "coverage": "Reviewed story · 2008–2016 catalog endpoint",
+      "related": [
+        {"universe_id": "the-jet-age-of-tomorrow", "relationship": "Early Super D3Shay collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "early-collective-orbit",
+          "era": "2008–2009",
+          "title": "Production links the first Odd Future orbit",
+          "dek": "brandUn DeShay contributed during Odd Future's early formation and worked in the Super D3Shay configuration connected to Matt Martians' production world.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "fader-matt-martians-2019"],
+          "song_links": [
+            {"universe_id": "the-jet-age-of-tomorrow", "track_title": "The Last Martians", "label": "Hear the production orbit"}
+          ]
+        },
+        {
+          "id": "independent-producer-rapper",
+          "era": "2010–2011",
+          "title": "The producer-rapper identity moves outside the group",
+          "dek": "In his 2011 interview, DeShay discussed building his own work after the Odd Future period and treating rapping and production as parts of one career.",
+          "claim_type": "artist-stated",
+          "source_ids": ["earmilk-brandun-deshay-2011"],
+          "song_links": [
+            {"track_title": "The Intro, Hoe", "label": "Open Volume: One"}
+          ]
+        },
+        {
+          "id": "catalog-endpoint",
+          "era": "2016 catalog endpoint",
+          "title": "goldUn Child: 2 closes the indexed album line",
+          "dek": "The synchronized release catalog currently ends at goldUn Child: 2. Threadline records that endpoint without inventing a story for undocumented gaps after it.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-brandun-deshay"],
+          "song_links": [
+            {"track_title": "Throwed", "label": "Hear the catalog endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "casey-veggies",
+      "summary": "A teenage Odd Future co-founder who chose an independent solo vision and built the Peas & Carrots path around it.",
+      "tagline": "From the first tape to a deliberately separate Los Angeles career.",
+      "coverage": "Reviewed story · 2007–2026 catalog",
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Early Odd Future peer and later collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "teenage-beginnings",
+          "era": "2007–2008",
+          "title": "Two beginnings happen at once",
+          "dek": "Casey Veggies helped form Odd Future while also releasing Customized Greatly, Volume 1 as a teenager. His own catalog therefore starts beside the collective, not after it.",
+          "claim_type": "reported",
+          "source_ids": ["independent-casey-veggies-2015", "fader-odd-future-cover-2010"],
+          "song_links": [
+            {"track_title": "Sun in the Sky (intro)", "label": "Open the first mixtape"},
+            {"universe_id": "odd-future", "track_title": "Odd Toddlers", "label": "Hear the shared starting point"}
+          ]
+        },
+        {
+          "id": "peas-and-carrots",
+          "era": "2009–2015",
+          "title": "A different vision becomes Peas & Carrots",
+          "dek": "Veggies described building a separate rap path and the Peas & Carrots label-and-clothing identity. Live & Grow brought that long mixtape apprenticeship into a studio-album frame.",
+          "claim_type": "artist-stated",
+          "source_ids": ["independent-casey-veggies-2015"],
+          "song_links": [
+            {"track_title": "Backflip", "label": "Enter Live & Grow"}
+          ]
+        },
+        {
+          "id": "independent-continuity",
+          "era": "2016–2026",
+          "title": "The independent catalog keeps extending",
+          "dek": "The local catalog documents a sustained run of Customized Greatly sequels, collaborative tapes, and independent releases through Caught Up In The Game: Deluxe Edition in 2026.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-casey-veggies"],
+          "song_links": [
+            {"track_title": "Worth It", "label": "Hear the current catalog endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "domo-genesis",
+      "summary": "Domo Genesis moves from Odd Future's early mixtape exchange into a patient solo catalog shaped by collaboration and reflection.",
+      "tagline": "The collective's grounded rapper builds a long solo line.",
+      "coverage": "Reviewed story · 2010–2025",
+      "related": [
+        {"universe_id": "mellowhigh", "relationship": "Member with Hodgy and Left Brain"}
+      ],
+      "chapters": [
+        {
+          "id": "rolling-papers-arrival",
+          "era": "2010",
+          "title": "Rolling Papers introduces a steadier voice",
+          "dek": "Domo Genesis entered Odd Future's free-mixtape period with Rolling Papers, establishing a relaxed but technically focused presence inside the louder collective frame.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "musicbrainz-catalog-domo-genesis"],
+          "song_links": [
+            {"track_title": "Buzzin'", "label": "Start with Rolling Papers"}
+          ]
+        },
+        {
+          "id": "collaboration-years",
+          "era": "2012–2013",
+          "title": "Collaboration becomes the route outward",
+          "dek": "No Idols with The Alchemist and the MellowHigh album connected Domo's Odd Future role to producer-led work beyond the main group tapes.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-domo-genesis", "fader-mellowhigh-2013"],
+          "song_links": [
+            {"universe_id": "mellowhigh", "track_title": "Goon'n", "label": "Open the trio chapter"}
+          ]
+        },
+        {
+          "id": "debut-album",
+          "era": "2016",
+          "title": "Genesis makes the solo album personal",
+          "dek": "Domo described Genesis as a full debut shaped by experience outside the collective's early rush, with family, ambition, and self-assessment moving closer to the center.",
+          "claim_type": "artist-stated",
+          "source_ids": ["xxl-domo-2016"],
+          "song_links": [
+            {"track_title": "Dapper", "label": "Enter Genesis"}
+          ]
+        },
+        {
+          "id": "independent-late-work",
+          "era": "2022–2025",
+          "title": "Later records keep the story in motion",
+          "dek": "Intros, Outros & Interludes foregrounded reflection, and the synchronized catalog continues through SCRAM! in 2025. The through-line is documented output, not a claim that the music remained stylistically fixed.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-domo-2022", "musicbrainz-catalog-domo-genesis"],
+          "song_links": [
+            {"track_title": "Victories & Losses", "label": "Open the reflective chapter"},
+            {"track_title": "GOODGRACIOUS", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "earl-sweatshirt",
+      "summary": "From the startling teenage Earl tape to an increasingly compressed, collaborative, and self-directed album language.",
+      "tagline": "A prodigy story becomes a long study in authorship and scale.",
+      "coverage": "Reviewed story · 2010–2026 catalog",
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Odd Future peer and collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "earl-tape",
+          "era": "2010",
+          "title": "The Earl tape makes a teenage voice impossible to ignore",
+          "dek": "Earl's first tape paired dense internal rhyme with the abrasive imagination of Odd Future's early web era. Its notoriety made his absence from the group's breakthrough part of the public story around him.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "apple-earl-profile"],
+          "song_links": [
+            {"track_title": "Earl", "label": "Begin with Earl"}
+          ]
+        },
+        {
+          "id": "doris-return",
+          "era": "2012–2013",
+          "title": "Doris turns a return into a debut album",
+          "dek": "After returning to Los Angeles, Earl released Doris: still connected to Odd Future, but already organized around his own pacing, collaborators, and unease with easy narratives.",
+          "claim_type": "reported",
+          "source_ids": ["apple-earl-profile", "guardian-earl-2023"],
+          "song_links": [
+            {"track_title": "Chum", "label": "Enter Doris"}
+          ]
+        },
+        {
+          "id": "idlsidgo",
+          "era": "2015",
+          "title": "The music contracts around voice and pressure",
+          "dek": "I Don't Like Shit, I Don't Go Outside reduced the scale and darkened the production, making brevity and interior detail central to Earl's album craft.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["apple-earl-profile"],
+          "song_links": [
+            {"track_title": "Grief", "label": "Open the compressed chapter"}
+          ]
+        },
+        {
+          "id": "some-rap-songs",
+          "era": "2018–2023",
+          "title": "Fragments become a new compositional language",
+          "dek": "Some Rap Songs and the records that followed used short forms, looped textures, and close collaboration to move further from conventional rap-album structure. Earl later framed growth as more important than recreating the old collective era.",
+          "claim_type": "reported",
+          "source_ids": ["guardian-earl-2023", "apple-earl-profile"],
+          "song_links": [
+            {"track_title": "Riot!", "label": "Hear the Some Rap Songs coda"},
+            {"track_title": "2010", "label": "Continue into SICK!"}
+          ]
+        },
+        {
+          "id": "current-catalog",
+          "era": "2024–2026",
+          "title": "The catalog remains collaborative and active",
+          "dek": "The synchronized catalog continues beyond Voir Dire through POMPEII // UTILITY in 2026. Threadline treats those release records as the current endpoint and leaves interpretation to reviewed sources as they arrive.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-earl-sweatshirt"],
+          "song_links": [
+            {"track_title": "The Fall", "label": "Hear the current catalog endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "hodgy",
+      "summary": "A founding rapper whose story runs through MellowHype, the collective tapes, and a solo catalog that eventually carries his own name.",
+      "tagline": "From Odd Future's first exchanges to a separate solo voice.",
+      "coverage": "Reviewed story · 2007–2022 catalog endpoint",
+      "related": [
+        {"universe_id": "mellowhype", "relationship": "Rapper alongside producer Left Brain"},
+        {"universe_id": "mellowhigh", "relationship": "Member with Domo Genesis and Left Brain"}
+      ],
+      "chapters": [
+        {
+          "id": "founding-voice",
+          "era": "2007–2010",
+          "title": "A founding voice develops inside a duo",
+          "dek": "Hodgy was present in Odd Future's earliest formation while his work with Left Brain as MellowHype created a durable rapper-producer unit inside the group.",
+          "claim_type": "reported",
+          "source_ids": ["fader-odd-future-cover-2010", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"universe_id": "mellowhype", "track_title": "64", "label": "Enter MellowHype"}
+          ]
+        },
+        {
+          "id": "solo-mixtape-line",
+          "era": "2010–2013",
+          "title": "Solo tapes sit beside the group work",
+          "dek": "The Dena Tape and later EPs documented a separate Hodgy catalog even as he remained one of the most frequent voices on Odd Future and MellowHype releases.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-hodgy", "pitchfork-odd-future-2011"],
+          "song_links": [
+            {"track_title": "Blame It", "label": "Open The Dena Tape"}
+          ]
+        },
+        {
+          "id": "three-formats",
+          "era": "2013–2017",
+          "title": "Trio, duo, and solo formats overlap",
+          "dek": "MellowHigh placed Hodgy beside Domo and Left Brain; INSA continued MellowHype; Fireplace: TheNotTheOtherSide then established a full solo-album chapter.",
+          "claim_type": "documented-fact",
+          "source_ids": ["fader-mellowhigh-2013", "fader-mellowhype-2017", "musicbrainz-catalog-hodgy"],
+          "song_links": [
+            {"universe_id": "mellowhigh", "track_title": "Air", "label": "Open MellowHigh"},
+            {"track_title": "Barbell", "label": "Enter Fireplace"}
+          ]
+        },
+        {
+          "id": "entitled",
+          "era": "2022 catalog endpoint",
+          "title": "Entitled closes the current indexed line",
+          "dek": "Released under the shorter name Hodgy, Entitled is the latest album-length project in the synchronized catalog and marks the current endpoint of this reviewed chronology.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-hodgy"],
+          "song_links": [
+            {"track_title": "Everyday", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "i-smell-panties",
+      "summary": "Tyler and Jasper's brief comedy-rap duo, preserved as one of the earliest recorded artifacts in the Odd Future family tree.",
+      "tagline": "A six-song teenage experiment that points toward the larger collective.",
+      "coverage": "Reviewed complete story · 2007–2008",
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Duo member and producer"},
+        {"universe_id": "jasper-dolphin", "relationship": "Duo member"}
+      ],
+      "chapters": [
+        {
+          "id": "duo-formation",
+          "era": "2007–2008",
+          "title": "Tyler and Jasper make a duo out of friendship",
+          "dek": "I Smell Panties paired Tyler's early production with Jasper's comic performance before either career had settled into a public shape.",
+          "claim_type": "documented-fact",
+          "source_ids": ["oddfuture-bandcamp-isp", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"track_title": "Bapes", "label": "Open the duo's sound"}
+          ]
+        },
+        {
+          "id": "one-ep",
+          "era": "June 2008",
+          "title": "One self-released EP becomes the whole catalog",
+          "dek": "The official Odd Future Bandcamp page dates the six-track I Smell Panties release to June 28, 2008. Its small scale is the story: a complete early experiment, not an unfinished album series.",
+          "claim_type": "documented-fact",
+          "source_ids": ["oddfuture-bandcamp-isp", "musicbrainz-catalog-i-smell-panties"],
+          "song_links": [
+            {"track_title": "Bring the Hi Hat In", "label": "Hear the middle of the EP"}
+          ]
+        },
+        {
+          "id": "lisa-bridge",
+          "era": "Late 2008",
+          "title": "Lisa bridges the duo into Odd Future's first tape",
+          "dek": "Lisa appears in both the duo's compact catalog and The Odd Future Tape, making it the clearest connection between this side project and the collective's first shared release.",
+          "claim_type": "documented-fact",
+          "source_ids": ["oddfuture-bandcamp-isp", "musicbrainz-odd-future-tape"],
+          "song_links": [
+            {"track_title": "Lisa", "label": "Hear the duo version"},
+            {"universe_id": "odd-future", "track_title": "Lisa", "label": "Follow it into Odd Future"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "jasper-dolphin",
+      "summary": "A founding friend whose importance to Odd Future runs through comic performance, group records, Loiter Squad, and an enduring on-screen presence.",
+      "tagline": "The story is performance and friendship, not a missing solo album.",
+      "coverage": "Reviewed story · 2007–2024",
+      "related": [
+        {"universe_id": "i-smell-panties", "relationship": "Duo member with Tyler"},
+        {"universe_id": "taco-bennett", "relationship": "Odd Future and Loiter Squad castmate"},
+        {"universe_id": "l-boy", "relationship": "Odd Future and Loiter Squad castmate"}
+      ],
+      "chapters": [
+        {
+          "id": "friendship-first",
+          "era": "2007–2009",
+          "title": "Friendship is the role before music is the product",
+          "dek": "Jasper was part of Odd Future's founding social world and formed I Smell Panties with Tyler. The duo's comic records show why a solo discography is the wrong measure of his contribution.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "oddfuture-bandcamp-isp"],
+          "song_links": [
+            {"universe_id": "i-smell-panties", "track_title": "Bapes", "label": "Hear Jasper's first subgroup"}
+          ]
+        },
+        {
+          "id": "collective-performer",
+          "era": "2009–2012",
+          "title": "The nontraditional rapper becomes essential on screen",
+          "dek": "Jasper's appearances on Tyler and Odd Future records were inseparable from videos, stage energy, and group chemistry; Oldie's ensemble video preserves that role clearly.",
+          "claim_type": "critical-interpretation",
+          "source_ids": ["pitchfork-odd-future-history-2018", "musicbrainz-of-tape-vol-2"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Watch the ensemble role"}
+          ]
+        },
+        {
+          "id": "loiter-squad",
+          "era": "2012–2014",
+          "title": "Loiter Squad makes performance the main medium",
+          "dek": "Adult Swim's Loiter Squad moved Jasper, Taco, L-Boy, Tyler, and their peers into sketch and stunt television, formalizing the comedy already present in the collective's videos.",
+          "claim_type": "reported",
+          "source_ids": ["fast-company-loiter-squad-2012"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Rella", "label": "Return to the visual-comedy era"}
+          ]
+        },
+        {
+          "id": "screen-and-flog-gnaw",
+          "era": "2015–2024",
+          "title": "The public path stays on screen and inside the extended family",
+          "dek": "Jasper continued through reality, film, and television work and remained visible around Camp Flog Gnaw. The New Yorker's 2024 profile treats that continuing presence as its own career, not a footnote to music.",
+          "claim_type": "reported",
+          "source_ids": ["new-yorker-jasper-2024"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Return to the family portrait"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "left-brain",
+      "summary": "The producer at the center of MellowHype and MellowHigh, followed into the independent Mind Gone and LEFT FAMOUS catalogs.",
+      "tagline": "A production backbone becomes a solo catalog.",
+      "coverage": "Reviewed story · 2007–2025",
+      "related": [
+        {"universe_id": "mellowhype", "relationship": "Producer alongside rapper Hodgy"},
+        {"universe_id": "mellowhigh", "relationship": "Producer and member"}
+      ],
+      "chapters": [
+        {
+          "id": "mellowhype-foundation",
+          "era": "2007–2010",
+          "title": "MellowHype gives Odd Future a producer-rapper engine",
+          "dek": "Left Brain's production partnership with Hodgy began in Odd Future's founding period and developed into MellowHype's own run of releases.",
+          "claim_type": "reported",
+          "source_ids": ["fader-odd-future-cover-2010", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"universe_id": "mellowhype", "track_title": "64", "label": "Hear the duo's engine"}
+          ]
+        },
+        {
+          "id": "mellowhigh-expansion",
+          "era": "2013",
+          "title": "MellowHigh widens the unit",
+          "dek": "Adding Domo Genesis to Hodgy and Left Brain created MellowHigh, a trio whose sole album emphasized the producer's role as connective tissue between rappers.",
+          "claim_type": "reported",
+          "source_ids": ["fader-mellowhigh-2013"],
+          "song_links": [
+            {"universe_id": "mellowhigh", "track_title": "Air", "label": "Open MellowHigh"}
+          ]
+        },
+        {
+          "id": "mind-gone",
+          "era": "2017–2021",
+          "title": "Mind Gone moves the producer name to the cover",
+          "dek": "Left Brain described Mind Gone as an ongoing independent project connected to his Odd Future history but organized under his own name and collaborators.",
+          "claim_type": "artist-stated",
+          "source_ids": ["stockx-left-brain-2018", "fader-mellowhype-2017"],
+          "song_links": [
+            {"track_title": "Left De Niro", "label": "Enter Mind Gone"}
+          ]
+        },
+        {
+          "id": "left-famous",
+          "era": "2025 catalog endpoint",
+          "title": "LEFT FAMOUS extends the independent line",
+          "dek": "The synchronized catalog currently ends with LEFT FAMOUS in 2025, documenting that Left Brain's released work continued beyond the original group and subgroup cycles.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-left-brain"],
+          "song_links": [
+            {"track_title": "Kant Remember", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "l-boy",
+      "summary": "Lionel Boyce's route from Odd Future friend and Loiter Squad performer to an acting career led by The Bear.",
+      "tagline": "A collective role grows into a screen career under his own name.",
+      "coverage": "Reviewed story · early Odd Future–present screen work",
+      "related": [
+        {"universe_id": "jasper-dolphin", "relationship": "Odd Future and Loiter Squad castmate"},
+        {"universe_id": "taco-bennett", "relationship": "Odd Future and Loiter Squad castmate"}
+      ],
+      "chapters": [
+        {
+          "id": "l-boy-in-the-circle",
+          "era": "Early Odd Future",
+          "title": "L-Boy is part of the social architecture",
+          "dek": "Lionel Boyce entered the public Odd Future story as L-Boy, one of the friends whose humor and presence helped define the collective beyond records.",
+          "claim_type": "reported",
+          "source_ids": ["pitchfork-odd-future-history-2018", "interview-lionel-travis-2023"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Open the group portrait"}
+          ]
+        },
+        {
+          "id": "loiter-squad-training",
+          "era": "2012–2014",
+          "title": "Loiter Squad becomes an informal acting school",
+          "dek": "Boyce performed in the Adult Swim series with Tyler, Jasper, and Taco. The show translated the group's homemade video humor into recurring television production.",
+          "claim_type": "reported",
+          "source_ids": ["fast-company-loiter-squad-2012"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Rella", "label": "Revisit the visual era"}
+          ]
+        },
+        {
+          "id": "lionel-boyce-actor",
+          "era": "2015–present",
+          "title": "Lionel Boyce becomes the credited identity",
+          "dek": "Boyce's later acting work, especially Marcus on The Bear, established a career legible beyond the L-Boy nickname. His conversations with Travis Bennett place that growth on a continuous line from their Odd Future beginnings.",
+          "claim_type": "reported",
+          "source_ids": ["interview-lionel-travis-2023"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Return to where the screen path began"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "matt-martians",
+      "summary": "A producer's line through the Super 3, The Jet Age of Tomorrow, Odd Future, The Internet, and a parallel solo catalog.",
+      "tagline": "The connective producer behind several branches of the family tree.",
+      "coverage": "Reviewed story · 2008–2026",
+      "related": [
+        {"universe_id": "the-jet-age-of-tomorrow", "relationship": "Co-founder with Pyramid Vritra"},
+        {"universe_id": "the-internet", "relationship": "Co-founder, producer, and keyboardist"},
+        {"universe_id": "pyramid-vritra", "relationship": "Longtime production collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "myspace-to-super-three",
+          "era": "2008–2009",
+          "title": "Internet beat-making leads into Odd Future",
+          "dek": "Matt Martians published beats online under the Super 3 idea before connecting with Tyler and the early Odd Future network. The Super D3Shay configuration records that first production branch.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-matt-martians-2019", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"universe_id": "the-jet-age-of-tomorrow", "track_title": "The Last Martians", "label": "Hear the early production world"}
+          ]
+        },
+        {
+          "id": "jet-age",
+          "era": "2010–2013",
+          "title": "The Jet Age of Tomorrow builds the instrumental branch",
+          "dek": "With Pyramid Vritra, Martians developed a science-fiction-leaning production catalog that ran beside Odd Future's rap tapes and prepared the collaborative habits of his next band.",
+          "claim_type": "reported",
+          "source_ids": ["fader-matt-martians-2019", "id-vritra-2020"],
+          "song_links": [
+            {"universe_id": "the-jet-age-of-tomorrow", "track_title": "Wonderland", "label": "Enter the Jet Age"}
+          ]
+        },
+        {
+          "id": "forming-the-internet",
+          "era": "2011–2015",
+          "title": "The producer becomes a band architect",
+          "dek": "Martians formed The Internet with Syd and helped turn a home-studio partnership into a working band whose first major breakthrough was Ego Death.",
+          "claim_type": "artist-stated",
+          "source_ids": ["time-internet-interview-2015", "apple-internet-profile"],
+          "song_links": [
+            {"universe_id": "the-internet", "track_title": "Special Affair", "label": "Hear the band breakthrough"}
+          ]
+        },
+        {
+          "id": "solo-extension",
+          "era": "2017–2024",
+          "title": "Solo albums extend the production vocabulary",
+          "dek": "The Drum Chord Theory opened Martians' solo line, which continued alongside The Internet. He later described that solo work as an extension of ideas developed in Jet Age rather than a rejection of them.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-matt-martians-2019", "musicbrainz-catalog-matt-martians"],
+          "song_links": [
+            {"track_title": "Spend the Night / If You Were My GF", "label": "Enter the solo catalog"},
+            {"track_title": "B Like That", "label": "Hear the latest indexed album"}
+          ]
+        },
+        {
+          "id": "internet-next-chapter",
+          "era": "2026–2027 announced",
+          "title": "The band connection becomes active again",
+          "dek": "The Internet's 2026 update places Martians back inside an active band process aimed at a 2027 album. The archive records the announced work without claiming to know its unfinished form.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-internet-return-2026"],
+          "song_links": [
+            {"universe_id": "the-internet", "track_title": "Come Together", "label": "Return to the last band chapter"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "mellowhigh",
+      "summary": "The one-album trio formed by Hodgy, Domo Genesis, and Left Brain at the height of Odd Future's subgroup era.",
+      "tagline": "Three familiar roles recombined for one compact chapter.",
+      "coverage": "Reviewed complete released story · 2011–2013",
+      "related": [
+        {"universe_id": "hodgy", "relationship": "Rapper and member"},
+        {"universe_id": "domo-genesis", "relationship": "Rapper and member"},
+        {"universe_id": "left-brain", "relationship": "Producer and member"}
+      ],
+      "chapters": [
+        {
+          "id": "trio-forms",
+          "era": "2011–2012",
+          "title": "MellowHype adds Domo Genesis",
+          "dek": "MellowHigh combined Hodgy and Left Brain's existing duo with Domo Genesis, creating a subgroup that could reuse established chemistry in a new three-person balance.",
+          "claim_type": "reported",
+          "source_ids": ["fader-mellowhigh-2013"],
+          "song_links": [
+            {"track_title": "Goon'n", "label": "Hear the trio arrive"}
+          ]
+        },
+        {
+          "id": "album-and-tour",
+          "era": "2013",
+          "title": "A documentary trail follows the self-titled album",
+          "dek": "The FADER's Odd World episode documented the trio recording and touring around MellowHigh, giving the subgroup a public story beyond a name in the roster.",
+          "claim_type": "reported",
+          "source_ids": ["fader-mellowhigh-2013", "musicbrainz-catalog-mellowhigh"],
+          "song_links": [
+            {"track_title": "Air", "label": "Open the album"}
+          ]
+        },
+        {
+          "id": "one-album-endpoint",
+          "era": "After 2013",
+          "title": "The trio ends as a one-album branch",
+          "dek": "The synchronized catalog contains one MellowHigh album. Hodgy, Domo Genesis, and Left Brain continued through solo and other subgroup work, so their individual pages carry the story forward.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-mellowhigh"],
+          "song_links": [
+            {"track_title": "Nobody", "label": "Hear the catalog's later sequence"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "mellowhype",
+      "summary": "Hodgy and Left Brain's foundational rapper-producer duo, from early tapes through Numbers, INSA, and a later reunion.",
+      "tagline": "The durable duo inside Odd Future's first wave.",
+      "coverage": "Reviewed story · 2007–2017 reunion",
+      "related": [
+        {"universe_id": "hodgy", "relationship": "Rapper"},
+        {"universe_id": "left-brain", "relationship": "Producer"}
+      ],
+      "chapters": [
+        {
+          "id": "founding-duo",
+          "era": "2007–2010",
+          "title": "A rapper-producer pairing forms inside the collective",
+          "dek": "Hodgy and Left Brain established MellowHype during Odd Future's founding years. YelloWhite and BlackenedWhite gave the early roster a complete subgroup catalog beside Tyler's releases.",
+          "claim_type": "reported",
+          "source_ids": ["fader-odd-future-cover-2010", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"track_title": "Team", "label": "Open YelloWhite"},
+            {"track_title": "64", "label": "Enter BlackenedWhite"}
+          ]
+        },
+        {
+          "id": "numbers",
+          "era": "2011–2012",
+          "title": "The duo reaches its formal album phase",
+          "dek": "After the free-mixtape period, Numbers placed MellowHype inside Odd Future Records' commercial release cycle while preserving Left Brain's production and Hodgy's voice as the core unit.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-mellowhype", "fader-odd-future-deal-2011"],
+          "song_links": [
+            {"track_title": "La Bonita", "label": "Enter Numbers"}
+          ]
+        },
+        {
+          "id": "insa-and-pause",
+          "era": "2014–2015",
+          "title": "INSA closes the main run",
+          "dek": "INSA followed the duo's earlier releases, after which Hodgy said MellowHype would stop operating as an album project even though the two musicians could still work together.",
+          "claim_type": "reported",
+          "source_ids": ["musicbrainz-catalog-mellowhype", "fader-mellowhype-2017"],
+          "song_links": [
+            {"track_title": "Gang", "label": "Hear the main-run endpoint"}
+          ]
+        },
+        {
+          "id": "reunion",
+          "era": "2017",
+          "title": "A reunion changes the period, not the history",
+          "dek": "The duo reunited publicly for Tisk in 2017. That return is best read as a later connection between Hodgy and Left Brain, not proof that the original Odd Future structure resumed.",
+          "claim_type": "reported",
+          "source_ids": ["fader-mellowhype-2017"],
+          "song_links": [
+            {"track_title": "64", "label": "Return to the defining duo sound"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "mike-g",
+      "summary": "A low-key rapper and DJ whose Odd Future role became a steady independent mixtape and album catalog.",
+      "tagline": "A quieter counterweight with one of the roster's longest catalogs.",
+      "coverage": "Reviewed story · 2009–2021 catalog endpoint",
+      "chapters": [
+        {
+          "id": "joining-the-circle",
+          "era": "2009–2010",
+          "title": "Mike G enters with a contrasting cadence",
+          "dek": "Mike G joined the early Odd Future circle and brought a lower-key delivery that widened the collective's range rather than copying its most visible voices.",
+          "claim_type": "artist-stated",
+          "source_ids": ["revolt-mike-g-2019", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"track_title": "Erase Me", "label": "Open Mike Check"}
+          ]
+        },
+        {
+          "id": "ali",
+          "era": "2010",
+          "title": "ALI establishes the solo entry point",
+          "dek": "The ALI project arrived during the group's free-release surge and remains the clearest early doorway into Mike G apart from ensemble appearances.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-mike-g", "fader-odd-future-cover-2010"],
+          "song_links": [
+            {"track_title": "King", "label": "Enter ALI"}
+          ]
+        },
+        {
+          "id": "ensemble-and-dj-role",
+          "era": "2011–2014",
+          "title": "Group verses and DJ work run together",
+          "dek": "Mike G remained audible on group releases while developing a DJ practice. Forest Green, included in the collective catalog, is a direct bridge between the solo voice and the Odd Future banner.",
+          "claim_type": "reported",
+          "source_ids": ["revolt-mike-g-2019", "musicbrainz-of-tape-vol-2"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Forest Green", "label": "Hear the bridge to the group"}
+          ]
+        },
+        {
+          "id": "independent-catalog",
+          "era": "2015–2021",
+          "title": "The catalog continues outside the group cycle",
+          "dek": "Mike G's synchronized catalog extends through Verses, Exile, and Aliteia. The sequence documents continuity after Odd Future ceased acting like a conventional group.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-mike-g", "revolt-mike-g-2019"],
+          "song_links": [
+            {"track_title": "Exile (King Pt. II)", "label": "Open the later catalog"},
+            {"track_title": "Mia Zoi", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "na-kel-smith",
+      "summary": "A skater, performer, and rapper whose Odd Future connection opens into film work and a growing solo music catalog.",
+      "tagline": "Skating, screen performance, and music share one creative path.",
+      "coverage": "Reviewed story · collective orbit–2026",
+      "related": [
+        {"universe_id": "tyler-the-creator", "relationship": "Skate and music collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "skate-orbit",
+          "era": "Early 2010s",
+          "title": "Skating is the entrance to the extended collective",
+          "dek": "Na-Kel Smith came through the Los Angeles skate world around Odd Future. His presence shows how the collective's boundary included physical culture, video, and friendship as well as formal membership credits.",
+          "claim_type": "reported",
+          "source_ids": ["gq-nakel-2018", "pitchfork-odd-future-history-2018"],
+          "song_links": [
+            {"universe_id": "tyler-the-creator", "track_title": "Trashwang", "label": "Hear the collective connection"}
+          ]
+        },
+        {
+          "id": "mid90s",
+          "era": "2018",
+          "title": "mid90s turns lived skate knowledge into screen work",
+          "dek": "Smith's performance in Jonah Hill's mid90s brought his skate background into a major film role. Interviews from the release period connect that acting work to the same community that shaped his music.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-nakel-2018", "gq-nakel-2018"],
+          "song_links": [
+            {"track_title": "UP!", "label": "Follow the energy into his music"}
+          ]
+        },
+        {
+          "id": "solo-catalog",
+          "era": "2019–2021",
+          "title": "The solo catalog becomes a primary lane",
+          "dek": "3000nakteen and the releases that followed established Smith as a recording artist in his own right, not only a guest in someone else's story.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-na-kel-smith"],
+          "song_links": [
+            {"track_title": "UP!", "label": "Enter 3000nakteen"}
+          ]
+        },
+        {
+          "id": "nak-2026",
+          "era": "2026 catalog endpoint",
+          "title": "NAK extends the music line",
+          "dek": "The synchronized catalog currently ends with NAK in 2026. Threadline records that release as the present endpoint while keeping film, skating, and music visible as parallel parts of the story.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-na-kel-smith"],
+          "song_links": [
+            {"track_title": "MONEY2TALL", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "pyramid-vritra",
+      "summary": "Pyramid Vritra's route from teenage production with Matt Martians to The Jet Age of Tomorrow and an extensive experimental solo catalog as Vritra.",
+      "tagline": "The Jet Age launches a long independent production journey.",
+      "coverage": "Reviewed story · 2009–2024",
+      "related": [
+        {"universe_id": "the-jet-age-of-tomorrow", "relationship": "Co-founder with Matt Martians"},
+        {"universe_id": "matt-martians", "relationship": "Longtime production collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "meeting-matt",
+          "era": "2009–2010",
+          "title": "A teenage collaboration becomes the Jet Age",
+          "dek": "Vritra described connecting with Matt Martians as a teenager and making music together inside Odd Future's wider production world. The partnership became The Jet Age of Tomorrow.",
+          "claim_type": "artist-stated",
+          "source_ids": ["id-vritra-2020", "fader-matt-martians-2019"],
+          "song_links": [
+            {"universe_id": "the-jet-age-of-tomorrow", "track_title": "Wonderland", "label": "Enter the Jet Age"}
+          ]
+        },
+        {
+          "id": "solo-pyramid",
+          "era": "2010–2013",
+          "title": "Solo releases begin beside the duo",
+          "dek": "Elouise and Pyramid established a solo line while Jet Age albums were still arriving. The parallel catalogs show that the duo and the individual producer were never mutually exclusive identities.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-pyramid-vritra", "id-vritra-2020"],
+          "song_links": [
+            {"track_title": "Faith.", "label": "Open the first solo release"}
+          ]
+        },
+        {
+          "id": "vritra-beyond-label",
+          "era": "2014–2020",
+          "title": "Vritra becomes the durable working name",
+          "dek": "The later catalog shortens the name and ranges through numerous producer-led albums. In interview, Vritra framed the work through experimentation and long-term collaboration rather than nostalgia for one collective era.",
+          "claim_type": "artist-stated",
+          "source_ids": ["id-vritra-2020", "musicbrainz-catalog-pyramid-vritra"],
+          "song_links": [
+            {"track_title": "Goldielocks", "label": "Enter the later solo language"}
+          ]
+        },
+        {
+          "id": "amber",
+          "era": "2024 catalog endpoint",
+          "title": "AMBER closes the current indexed line",
+          "dek": "With one of the largest catalogs in this archive, Vritra's story currently reaches AMBER in 2024. The release count makes the solo branch a major body of work, not a subgroup footnote.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-pyramid-vritra"],
+          "song_links": [
+            {"track_title": "WOOL GLASSES PT 2", "label": "Hear the current endpoint"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "taco-bennett",
+      "summary": "Travis Bennett's path from teenage Odd Future DJ and hypeman through Loiter Squad into a sustained television and film career.",
+      "tagline": "The DJ booth opens into acting under his own name.",
+      "coverage": "Reviewed story · teenage Odd Future–present screen work",
+      "related": [
+        {"universe_id": "jasper-dolphin", "relationship": "Odd Future and Loiter Squad castmate"},
+        {"universe_id": "l-boy", "relationship": "Odd Future and Loiter Squad castmate"}
+      ],
+      "chapters": [
+        {
+          "id": "teenage-dj",
+          "era": "2009–2011",
+          "title": "Taco grows up in public as the group's DJ",
+          "dek": "Travis Bennett entered Odd Future as a teenager, performing as Taco and serving as Tyler's DJ and hypeman while the collective moved from local shows to international attention.",
+          "claim_type": "reported",
+          "source_ids": ["gq-travis-bennett-2022", "pitchfork-odd-future-2011"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Open the group portrait"}
+          ]
+        },
+        {
+          "id": "loiter-squad",
+          "era": "2012–2014",
+          "title": "Loiter Squad makes the camera a second stage",
+          "dek": "Bennett joined Tyler, Jasper, L-Boy, and other members in the Adult Swim sketch series, learning screen performance inside the collective's existing comic language.",
+          "claim_type": "reported",
+          "source_ids": ["fast-company-loiter-squad-2012", "gq-travis-bennett-2022"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Rella", "label": "Revisit the visual-comedy period"}
+          ]
+        },
+        {
+          "id": "choosing-acting",
+          "era": "2015–2020",
+          "title": "Acting becomes a choice, not a side effect",
+          "dek": "Bennett has explained that he did not want the expected next step of making his own rap career. He pursued acting instead, eventually becoming Elz on Dave.",
+          "claim_type": "artist-stated",
+          "source_ids": ["gq-travis-bennett-2022"],
+          "song_links": [
+            {"universe_id": "tyler-the-creator", "track_title": "CORSO", "label": "Follow the continuing Tyler connection"}
+          ]
+        },
+        {
+          "id": "travis-bennett",
+          "era": "2021–present",
+          "title": "Travis Bennett becomes the durable public identity",
+          "dek": "Later interviews with Bennett and Lionel Boyce frame their screen careers as growth from the same friendships, while making clear that each now works under an identity larger than an Odd Future nickname.",
+          "claim_type": "artist-stated",
+          "source_ids": ["interview-lionel-travis-2023", "gq-travis-bennett-2022"],
+          "song_links": [
+            {"universe_id": "odd-future", "track_title": "Oldie", "label": "Return to the shared beginning"}
+          ]
+        }
+      ]
+    },
+    {
+      "universe_id": "the-jet-age-of-tomorrow",
+      "summary": "Matt Martians and Pyramid Vritra's production duo, from the Super D3Shay experiments through four Jet Age album cycles and their later solo extensions.",
+      "tagline": "Odd Future's science-fiction production wing builds its own catalog.",
+      "coverage": "Reviewed complete released story · 2008–2017",
+      "related": [
+        {"universe_id": "matt-martians", "relationship": "Co-founder"},
+        {"universe_id": "pyramid-vritra", "relationship": "Co-founder"},
+        {"universe_id": "brandun-deshay", "relationship": "Early Super D3Shay collaborator"}
+      ],
+      "chapters": [
+        {
+          "id": "super-d3shay",
+          "era": "2008–2009",
+          "title": "The production branch begins before its final name",
+          "dek": "Matt Martians' Super 3 concept and the Super D3Shay collaboration with brandUn DeShay formed the earliest version of the production world that became The Jet Age of Tomorrow.",
+          "claim_type": "reported",
+          "source_ids": ["fader-matt-martians-2019", "earmilk-brandun-deshay-2011"],
+          "song_links": [
+            {"track_title": "The Last Martians", "label": "Hear the earliest indexed release"}
+          ]
+        },
+        {
+          "id": "jet-age-launch",
+          "era": "2010",
+          "title": "Martians and Vritra launch the Jet Age",
+          "dek": "The duo released Voyager and Journey to the 5th Echelon in rapid succession, building an instrumental and psychedelic counterworld beside Odd Future's vocal mixtapes.",
+          "claim_type": "reported",
+          "source_ids": ["id-vritra-2020", "musicbrainz-catalog-the-jet-age-of-tomorrow"],
+          "song_links": [
+            {"track_title": "Wonderland", "label": "Enter the fifth echelon"}
+          ]
+        },
+        {
+          "id": "jellyfish-mentality",
+          "era": "2013",
+          "title": "JellyFish Mentality expands the guest network",
+          "dek": "The 2013 album and bonus EP placed the duo's production inside a broader collaborator network, showing how the subgroup could connect Odd Future to voices outside it.",
+          "claim_type": "documented-fact",
+          "source_ids": ["musicbrainz-catalog-the-jet-age-of-tomorrow", "fader-matt-martians-2019"],
+          "song_links": [
+            {"track_title": "ON!", "label": "Open JellyFish Mentality"}
+          ]
+        },
+        {
+          "id": "gods-poop-or-clouds",
+          "era": "2017–present legacy",
+          "title": "A final duo album turns into two solo continuations",
+          "dek": "God's Poop or Clouds? is the current final Jet Age album. Martians later said he was content with that ending and understood his solo records as an extension of the same ideas; Vritra's large solo catalog supplies the other continuation.",
+          "claim_type": "artist-stated",
+          "source_ids": ["fader-matt-martians-2019", "musicbrainz-catalog-the-jet-age-of-tomorrow"],
+          "song_links": [
+            {"track_title": "Summer Is Ending", "label": "Hear the duo's final album"}
+          ]
+        }
+      ]
+    }
+  ]
+}
