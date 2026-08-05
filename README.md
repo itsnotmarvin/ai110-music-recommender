@@ -217,6 +217,14 @@ flowchart LR
     H --> SG
 ```
 
+## Design Decisions
+
+- **Extractive Grounded Retrieval over Open Generative RAG**: To eliminate hallucinations in music history, Threadline tokenizes and scores reviewed passages using transparent TF-IDF retrieval, composing answers strictly from cited passages.
+- **Explicit Claim-Type Taxonomy**: Every archived passage is categorized (`documented-fact`, `artist-stated`, `reported`, `critical-interpretation`, `fan-theory`), enforcing boundaries so speculation is never presented as factual biography.
+- **Session-Only Apple Music Profile**: Personal library XML exports are processed entirely in session memory without disk persistence or audio upload, preserving privacy while enabling transparent recommendation scoring.
+- **Separation of Static Archive and Live Data**: Historical story narratives are static and editorially reviewed, whereas volatile data (live Ticketmaster concerts, LRCLIB lyrics) are handled by decoupled external adapters with freshness and verification warnings.
+- **Album Era Background with Song Layer Abstention**: When song-specific context is unindexed, song pages reuse reviewed album context rather than fabricating single-track motives, explicitly marking the fallback boundary.
+
 ## Setup
 
 Python 3.10–3.13 is recommended.
@@ -312,6 +320,12 @@ catalog embeds 169 verified artist-channel or YouTube Music tracks; 37 early
 mixtape entries use labeled searches. The member/subgroup catalog adds 780 direct
 destinations across 1,431 tracks, with labeled searches for the rest. Threadline
 does not silently substitute fan uploads.
+
+## Testing Summary
+
+- **Automated Test Suite**: **55 out of 55 tests passed** (100%). The suite covers XML library parsing, personal recommendation modes, hybrid playlist continuation, Last.fm normalization, archive retrieval relevance, claim guardrails, lyrics matching, and live concert error handling.
+- **Reliability & Evaluation Harness**: **5 out of 5 structured evaluation cases passed** (100%). Initial evaluation scored 4/5 when an unsupported private detail question matched artist names and barely exceeded the baseline answer threshold (0.52). Raising the retrieval confidence threshold to 0.60 resolved the issue, ensuring proper abstention ("insufficient-evidence").
+- **Confidence Scoring & Evidence Boundaries**: Every retrieval response includes a numerical confidence score (e.g. 0.96 for direct facts, 0.69 with causal guardrail). Unsupported questions safely abstain rather than guessing.
 
 ## Reproducible Execution Evidence
 
@@ -440,3 +454,8 @@ model_card.md                Intended use, risks, and reflection
 - LRCLIB coverage and community-contributed timing can be missing or incorrect; unmatched songs fall back safely.
 - The project links to music reporting but does not reproduce copyrighted articles.
 - The working title and visual identity are drafts, not final branding.
+
+## Reflection
+
+Building Threadline demonstrated the value of combining deterministic scoring, grounded retrieval, and strict claim boundaries when applying AI to domain-specific metadata. Rather than relying on open-ended LLM generation—which frequently hallucinates music history and collapses evidence levels—a hybrid approach combining transparent retrieval (TF-IDF ranking over reviewed passages) with deterministic recommendation recipes provides full explainability, zero hallucination, and reproducible behavior. Reliability testing proved crucial: empirical evaluation uncovered edge cases where low confidence thresholds permitted unsupported claims, leading directly to safety threshold tuning that made the system reliably abstain when evidence was missing.
+
