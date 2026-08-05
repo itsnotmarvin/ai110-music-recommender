@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import unicodedata
 from dataclasses import asdict, dataclass
@@ -70,9 +71,13 @@ class LrcLibClient:
 
     endpoint = "https://lrclib.net/api/search"
 
-    def __init__(self, timeout: float = 8.0):
+    def __init__(self, timeout: float = 8.0, contact_url: Optional[str] = None):
         self.timeout = timeout
-        self.user_agent = "Threadline/0.3 (https://github.com/)"
+        self.contact_url = contact_url or os.getenv(
+            "THREADLINE_CONTACT_URL",
+            "https://github.com/itsnotmarvin/ai110-module3show-musicrecommendersimulation-starter",
+        )
+        self.user_agent = f"Threadline/0.3 ({self.contact_url})"
 
     def _request_json(self, url: str) -> List[Dict]:
         request = Request(
